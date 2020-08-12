@@ -1,0 +1,647 @@
+,blank,objectid,seating_interest,restaurant_name,legal_business_name,dba,building_number,street,borough,postcode,business_address,time_of_submission,latitude,longitude,nta
+0,50,82,both,Bar Meridian,Prospective Crown LLC,Bar Meridian,406,Prospect Place,Brooklyn,11238,"406 Prospect Place, Brooklyn, NY",06/19/2020,40.676419,-73.962971,Prospect Heights
+1,60,92,both,5 burro cafe,Marla’s food corp,5 burro cafe,7205,Austin Street,Queens,11375,"7205 Austin Street , Queens, NY",06/19/2020,40.719248,-73.84236999999999,Forest Hills
+2,108,140,sidewalk,Empellon Al Pastor,"SADA 3, LLC",Empellon Al Pastor,132,St. Marks Place,Manhattan,10009,"132 St. Marks Place, Manhattan, NY",06/19/2020,40.727196,-73.98437,East Village
+3,109,141,both,Otway,St james 930 LLC,Otway,930,Fulton street,Brooklyn,11238,"930 Fulton street, Brooklyn, NY",06/19/2020,40.682833,-73.963833,Clinton Hill
+4,143,175,both,Laila restaurant,Laila restaurant & lounge inc,Laila restaurant & lounge inc,45,Page ave,Staten Island,10309,"45  Page ave , Staten Island, NY",06/19/2020,40.522783000000004,-74.23491700000001,Charleston-Richmond Valley-Tottenville
+5,144,176,both,Fiaschetteria Pistoia,Fiaschetteria LTD,Fiaschetteria Pistoia,647,East 11th street,Manhattan,10009,"647 East 11th street, Manhattan, NY",06/19/2020,40.72672,-73.977678,Lower East Side
+6,200,232,sidewalk,Iconyc Brewing Company,Iconyc Brewing Company LLC,Iconyc Brewing Company LLC,43-63,11th street,Queens,11101,"43-63 11th street, Queens, NY",06/19/2020,40.750483,-73.948984,Hunters Point-Sunnyside-West Maspeth
+7,206,238,sidewalk,Eleven b,East River Restaurant Group Ltd,Eleven b,174,Avenue B,Manhattan,10009,"174  Avenue B, Manhattan, NY",06/19/2020,40.727382,-73.979543,East Village
+8,209,241,sidewalk,LUCIEN,"Requisite Bootie, Inc",LUCIEN,14,1st Avenie,Manhattan,10009,"14  1st Avenie, Manhattan, NY",06/19/2020,,,
+9,210,242,sidewalk,Hanoi House,King Me Kong LLC,Hanoi House,119,St Marks Place,Manhattan,10009,"119 St Marks Place, Manhattan, NY",06/19/2020,40.727268,-73.98449699999999,East Village
+10,215,247,roadway,Bearded Lady,Bogman LLC,Bearded Lady,686A,Washington Avenue,Brooklyn,11238,"686A Washington Avenue, Brooklyn, NY",06/19/2020,40.67738,-73.96369200000001,Prospect Heights
+11,241,273,both,Bearded Lady,Bogman LLC,Bearded Lady,686A,Washington Avenue,Brooklyn,11238,"686A Washington Avenue, Brooklyn, NY",06/19/2020,40.67738,-73.96369200000001,Prospect Heights
+12,250,282,sidewalk,RIVIERA RISTORANTE,17-12 RIVIERA RESTAURANT CORP.,17-12 RIVIERA RESTAURANT CORP.,1712,UTOPIA PKWY,Queens,11357,"1712 UTOPIA PKWY, Queens, NY",06/19/2020,40.781944,-73.794327,Ft. Totten-Bay Terrace-Clearview
+13,273,305,both,Locanda Vini e Olii,Francat Inc,Locanda Vini e Olii,129,Gates Ave,Brooklyn,11238,"129 Gates Ave, Brooklyn, NY",06/19/2020,40.684804,-73.96292700000001,Clinton Hill
+14,294,326,sidewalk,Chuko,Bar Chuko LLC,Chuko,565,Vanderbilt Ave,Brooklyn,11238,"565 Vanderbilt Ave, Brooklyn, NY",06/19/2020,40.680839,-73.96771,Prospect Heights
+15,302,334,both,The shannon pot 2,Farah2004 inc,Farah2004 inc,10 50,44th drive long island citu,Queens,11101,"10 50  44th drive long island citu, Queens, NY",06/19/2020,40.748725,-73.95062,Hunters Point-Sunnyside-West Maspeth
+16,322,354,sidewalk,BierWax,BierWax LLC,BierWax,556,Vanderbilt Avenue,Brooklyn,11238,"556  Vanderbilt Avenue , Brooklyn, NY",06/19/2020,40.679966,-73.968046,Prospect Heights
+17,331,363,sidewalk,Jerusalem Bagels,Jerusalem Bagels Inc.,Jerusalem Bagels Inc.,64-48,108 Street,Queens,11375,"64-48 108 Street, Queens, NY",06/19/2020,40.732042,-73.849152,Forest Hills
+18,373,405,both,Tap house,Eire Corp,Eire Corp,72-07,Austin Street,Queens,11375,"72-07 Austin Street, Queens, NY",06/19/2020,40.719228,-73.842327,Forest Hills
+19,390,422,both,The Local NY,Sunlite Avenue Holdings LLC,The Local NYC,13-02,44th Avenue,Queens,11101,"13-02 44th Avenue, Queens, NY",06/19/2020,40.749651,-73.947487,Hunters Point-Sunnyside-West Maspeth
+20,404,436,sidewalk,Health Kitchen,"LS Health Foods, Inc.",Health Kitchen,10-17A,154th Street,Queens,11357,"10-17A 154th Street, Queens, NY",06/19/2020,40.792825,-73.80714,Whitestone
+21,431,463,both,Acey Ducey’s,Acey Ducey’s Rest. Corp.,Acey Ducey’s Rest. Corp.,101-17,Metropolitan Avenue,Queens,11375,"101-17 Metropolitan Avenue, Queens, NY",06/19/2020,40.710595,-73.851632,Forest Hills
+22,442,474,both,The Gutter Bar LIC,The Gutter Bar LIC LLC,The Gutter Bar LIC LLC,2020-10-22T00:00:00.000,46th Ave,Queens,11101,"10-22 46th Ave, Queens, NY",06/19/2020,40.746727,-73.951993,Hunters Point-Sunnyside-West Maspeth
+23,465,497,both,Baby Jane,Fulton Brothers Tavern and Lounge,Baby Jane,899,Fulton Street,Brooklyn,11238,"899  Fulton Street, Brooklyn, NY",06/19/2020,40.683595000000004,-73.967348,Clinton Hill
+24,468,500,sidewalk,Colina Cuervo,Cuatro Rios LLC,Colina Cuervo,759,Nostrand Avenue,Brooklyn,11238,"759 Nostrand Avenue , Brooklyn, NY",06/19/2020,40.671333000000004,-73.950353,Crown Heights North
+25,496,528,both,Gnocco,Food in Italy LLC,Food in Italy LLC,337,East10th street,Manhattan,10009,"337 East10th street, Manhattan, NY",06/19/2020,40.727123999999996,-73.980499,East Village
+26,500,532,sidewalk,Dutch Kills Bar,27-24 Tavern Corp.,27-24 Tavern Corp.,2724,Jackson Ave.,Queens,11101,"2724  Jackson Ave. , Queens, NY",06/19/2020,40.747896000000004,-73.940173,Hunters Point-Sunnyside-West Maspeth
+27,509,541,sidewalk,Centro Pizza Bar & Italian Kitchen,SFL Pizza Corp,Centro Pizza Bar & Italian Kitchen,47-23,Vernon Boulevard,Queens,11101,"47-23 Vernon Boulevard, Queens, NY",06/19/2020,40.744944,-73.953352,Hunters Point-Sunnyside-West Maspeth
+28,515,547,roadway,Miss Lily's 7A,Seven A Cafe,Miss Lily's 7A,130,East 7th St,Manhattan,10009,"130  East 7th St, Manhattan, NY",06/19/2020,40.726186,-73.983869,East Village
+29,518,550,sidewalk,nourish,Heng Heng Group INC,Heng Heng Group INC,637A,Vanderbilt Ave,Brooklyn,11238,"637A Vanderbilt Ave, Brooklyn, NY",06/19/2020,40.678042,-73.968714,Prospect Heights
+30,519,551,both,Gantry Bar & Kitchen,Bellwether LIC Corp,Gantry Bar & KItchen,47-02,Vernon Blvd,Queens,11101,"47-02  Vernon Blvd, Queens, NY",06/19/2020,40.745342,-73.953236,Hunters Point-Sunnyside-West Maspeth
+31,530,562,sidewalk,Augurs Well,BAC 115 Corp,Augurs Well,115,ST Marks Pl,Manhattan,10009,"115  ST Marks Pl, Manhattan, NY",06/19/2020,40.727292,-73.984551,East Village
+32,545,577,both,Joyface,"104 Avenue C Partners, LLC",Joyface,104,Avenue C,Manhattan,10009,"104 Avenue C, Manhattan, NY",06/19/2020,40.724031,-73.978884,Lower East Side
+33,568,600,both,Dian Kitchen,"Dian Kitchen, LLC","Dian Kitchen, LLC",435,435 East 9th St,Manhattan,10009,"435 435 East 9th St, Manhattan, NY",06/19/2020,,,
+34,570,602,both,POST,Stackleather LLC,POST,42,Avenue B,Manhattan,10009,"42 Avenue B, Manhattan, NY",06/19/2020,40.722873,-73.982831,East Village
+35,590,622,both,La Vigna Restaurant and Bar,"La Vigna, Inc",La Vigna Restaurant and Bar,10011,Metropolitan Avenue,Queens,11375,"10011 Metropolitan Avenue, Queens, NY",06/19/2020,40.710791,-73.852876,Forest Hills
+36,601,633,both,z two restaurant,Z two restaurant and lounge,Z two restaurant and lounge,2925,Veterans road west,Staten Island,10309,"2925  Veterans road west , Staten Island, NY",06/19/2020,40.527704,-74.230963,Charleston-Richmond Valley-Tottenville
+37,607,639,sidewalk,Avant Garden,Derossi Veg LLC,Avant Garden,130,East 7th Street,Manhattan,10009,"130 East 7th Street, Manhattan, NY",06/19/2020,40.726186,-73.983869,East Village
+38,613,645,both,Tallgrass Burger,TGBG Inc,Tallgrass Burger,214,1st ave,Manhattan,10009,"214 1st ave, Manhattan, NY",06/19/2020,40.730503000000006,-73.983168,East Village
+39,618,650,both,Olde  Brooklyn bagel shoppe,645 bagels Corp,645 bagels Corp,645,Vanderbilt ave,Brooklyn,11238,"645  Vanderbilt ave , Brooklyn, NY",06/19/2020,40.677795,-73.9688,Prospect Heights
+40,630,662,both,Olea,Gayseahourse Llc,Olea Mediterranean Taverna,171,Lafayette Avenue,Brooklyn,11238,"171  Lafayette Avenue, Brooklyn, NY",06/19/2020,40.687672,-73.970552,Fort Greene
+41,634,666,both,Belli Osteria,Bellionfulton Corp,Belli Osteria,860,Fulton Street,Brooklyn,11238,"860 Fulton Street, Brooklyn, NY",06/19/2020,40.683440999999995,-73.966739,Clinton Hill
+42,647,679,both,Doris,Andrew J Andrews LLC,Doris,1088,Fulton St,Brooklyn,11238,"1088  Fulton St, Brooklyn, NY",06/19/2020,40.681422999999995,-73.957102,Clinton Hill
+43,657,689,sidewalk,Dai Hachi Suchi Corp.,Dai Hachi Suchi Corp.,Dai Hachi Suchi Corp.,4618,Vernon Blvd.,Queens,11101,"4618 Vernon Blvd., Queens, NY",06/19/2020,40.746338,-73.952907,Hunters Point-Sunnyside-West Maspeth
+44,658,690,both,Kafana,Kafana LLC,Kafana LLC,116,Avenue C,Manhattan,10009,"116 Avenue C, Manhattan, NY",06/19/2020,40.724409,-73.97861,Lower East Side
+45,673,705,sidewalk,Milk Bar,"Casual cafe partners, LLC",Milk Bar,620,Vanderbilt Avenue,Brooklyn,11238,"620 Vanderbilt Avenue , Brooklyn, NY",06/19/2020,40.677797999999996,-73.968822,Prospect Heights
+46,676,708,both,Antiochia Grill,Antiochia Grill,Oba Grill,70-35,Austin Street,Queens,11375,"70-35 Austin Street, Queens, NY",06/19/2020,40.720498,-73.845679,Forest Hills
+47,694,726,sidewalk,Ladybird,Derossi Mac LLC,Ladybird,111,East 7th Street,Manhattan,10009,"111 East 7th Street, Manhattan, NY",06/19/2020,40.726576,-73.98476,East Village
+48,715,747,both,ROYALE,JEFLO & CO,JEFLO & CO,157,AVENUE C,Manhattan,10009,"157 AVENUE C, Manhattan, NY",06/19/2020,40.725688,-73.977689,Lower East Side
+49,737,769,both,Black Seed Bagels,First Avenue Bagel Ventures LLC,Black Seed Bagels,176,First Avenue,Manhattan,10009,"176 First Avenue, Manhattan, NY",06/19/2020,40.729172,-73.984128,East Village
+50,753,785,sidewalk,Desnuda,Warlord Enterprises LLC,Warlord Enterprises LLC,122,East 7th Street,Manhattan,10009,"122 East 7th Street, Manhattan, NY",06/19/2020,40.726312,-73.984179,East Village
+51,754,786,both,The Huntress Bar,The Huntress Bar LLC,The Huntress Bar LLC,24-03,41st Avenue,Queens,11101,"24-03  41st Avenue, Queens, NY",06/19/2020,40.752581,-73.939739,Queensbridge-Ravenswood-Long Island City
+52,761,793,sidewalk,Emily,EMH 919 Inc,EMH 919 Inc,919,Fulton St,Brooklyn,11238,"919  Fulton St, Brooklyn, NY",06/19/2020,40.683389,-73.96640699999999,Clinton Hill
+53,763,795,both,LIKKLE JAMAICAN DUMPLING HOUSE & LIBRARY,LIKKLE FOODS LLC,Likkle Jamaican Dumpling House,884,Fulton Street,Brooklyn,11238,"884  Fulton Street, Brooklyn, NY",06/19/2020,40.683226,-73.96570799999999,Clinton Hill
+54,771,803,both,Portofino restaurant,Portovino. Restaurant,Portovino. Restaurant,109 32,As an ave. Forest hills,Queens,11375,"109 32 As an ave. Forest hills, Queens, NY",06/19/2020,,,
+55,792,824,sidewalk,The Baroness Bar,41-26 Crescent Street Wine & Craft Restaurant LLC,The Baroness Bar,41-26,Crescent Street,Queens,11101,"41-26  Crescent Street, Queens, NY",06/19/2020,40.75181,-73.939502,Queensbridge-Ravenswood-Long Island City
+56,803,835,both,Ginger and Lemongrass,Ginger and Lemongrass LLC,Ginger and Lemongrass LLC,1953-12-01T00:00:00.000,150th street,Queens,11357,"12-53 150th street, Queens, NY",06/19/2020,40.789636,-73.814111,Whitestone
+57,808,840,sidewalk,Night Music,Derossi Asia LLC,Derossi Asia LLC,111,"East 7th Street, Store East",Manhattan,10009,"111 East 7th Street, Store East, Manhattan, NY",06/19/2020,40.726576,-73.98476,East Village
+58,817,849,roadway,Mojo Restaurant,"2k Cafe Ole, INC.",Mojo Restaurant,7020,Austin Street,Queens,11375,"7020 Austin Street, Queens, NY",06/19/2020,40.720696999999994,-73.846274,Forest Hills
+59,831,863,both,Speedy Romeo,Speedy Romeo,Speedy Romeo,376,Classon Avenue,Brooklyn,11238,"376  Classon Avenue, Brooklyn, NY",06/19/2020,40.687526,-73.959745,Clinton Hill
+60,842,874,sidewalk,Uno,NY Deep LLC,Uno Pazzeria & Grill,37-11,35th Ave,Queens,11101,"37-11 35th Ave, Queens, NY",06/19/2020,40.755802,-73.923519,Astoria
+61,846,878,sidewalk,Proletariat,Derossi Chelsea LLC,Proletariat,102,St. Marks Place,Manhattan,10009,"102 St. Marks Place, Manhattan, NY",06/19/2020,40.727375,-73.984796,East Village
+62,869,901,sidewalk,Hops Hill,Bar Chain LLC,Hops Hill,886,Fulton Street,Brooklyn,11238,"886 Fulton Street, Brooklyn, NY",06/19/2020,40.683209999999995,-73.965639,Clinton Hill
+63,891,923,both,Kool Bloo,188 Avenue A Take Out Food Corp,188 Avenue A Take Out Food Corp,188,Avenue A,Manhattan,10009,"188 Avenue A, Manhattan, NY",06/19/2020,40.72893,-73.981426,East Village
+64,897,929,both,Xochitl Taqueria,Nessa10corp,Xochitl Taqueria,1015,Fulton street,Brooklyn,11238,"1015 Fulton street , Brooklyn, NY",06/19/2020,40.682322,-73.961324,Clinton Hill
+65,902,934,sidewalk,Panera Bread,Doherty Breads NYC LLC,Panera Bread,38-01,35th street,Queens,11101,"38-01 35th street, Queens, NY",06/19/2020,,,
+66,910,942,both,The Hairy Lemon,Galmac LLC,The Hairy Lemon,28/30,Avenue B,Manhattan,10009,"28/30 Avenue B, Manhattan, NY",06/19/2020,,,
+67,923,955,sidewalk,Dee's,Dee's Brick Oven Pizza,Dee's Brick Oven Pizza,107-23,Metropolitan Ave,Queens,11375,"107-23  Metropolitan Ave, Queens, NY",06/19/2020,40.709579,-73.845311,Forest Hills
+68,936,968,sidewalk,Panera Bread,Doherty Breads NYC LLC,Panera Bread,23-58,Bell Blvd,Queens,11360,"23-58  Bell Blvd, Queens, NY",06/19/2020,40.780998,-73.775499,Ft. Totten-Bay Terrace-Clearview
+69,945,977,sidewalk,Beny’s delice,M2m f&b llc,Beny’s delice,903,Fulton st,Brooklyn,11238,"903 Fulton st, Brooklyn, NY",06/19/2020,40.683562,-73.967197,Clinton Hill
+70,959,991,both,Taco Azul,Taco Azul Inc,Taco Azul Inc,1008,Clintonville street,Queens,11357,"1008  Clintonville street, Queens, NY",06/19/2020,40.792766,-73.812893,Whitestone
+71,987,1019,roadway,Supper Restaurant,Raguboy Corp,Raguboy Corp,156,East 2nd Street,Manhattan,10009,"156 East 2nd Street, Manhattan, NY",06/19/2020,40.722774,-73.98518,East Village
+72,993,1025,both,THE IZAKAYA NYC on East 4th,SHIAWASE FACTORY LTD,THE IZAKAYA,215,East 4th street,Manhattan,10009,"215  East 4th street , Manhattan, NY",06/19/2020,40.723715999999996,-73.98352299999999,East Village
+73,1007,1039,sidewalk,Goodfellas  of long island city,Yanez corp,Andre's  pizza,2519,40th Avenue,Queens,11101,"2519  40th Avenue , Queens, NY",06/19/2020,40.753429,-73.937811,Queensbridge-Ravenswood-Long Island City
+74,1050,1082,both,Levante,Cibo 2621 LLC,Levante,26-21,Jackson Avenue,Queens,11101,"26-21 Jackson Avenue, Queens, NY",06/19/2020,40.747411,-73.941588,Hunters Point-Sunnyside-West Maspeth
+75,1064,1096,sidewalk,Agra Palace Restaurant & Party Hall,Agra Palace Inc.,Agra Palace Inc.,11633,Queens Blvd,Queens,11375,"11633 Queens Blvd , Queens, NY",06/19/2020,40.715973999999996,-73.83333499999999,Forest Hills
+76,1087,1119,sidewalk,Good Night Sonny,Little Rebel Inc,Good Night Sonny,134,1st Avenue,Manhattan,10009,"134 1st Avenue, Manhattan, NY",06/19/2020,40.727677,-73.985218,East Village
+77,1088,1120,both,Station House,FH Station House LLC,Forest Hills Station House,106-11,71st Avenue,Queens,11375,"106-11 71st Avenue, Queens, NY",06/19/2020,40.719795,-73.845035,Forest Hills
+78,1090,1122,roadway,Levante,Cibo 2621 LLC,Levante,26-19,Jackson Avenue,Queens,11101,"26-19 Jackson Avenue, Queens, NY",06/19/2020,40.747398,-73.94163499999999,Hunters Point-Sunnyside-West Maspeth
+79,1094,1126,both,TUSCAN HILLS,NEJU INC,TUSCAN HILLS,110-60,QUEENS BOULEVARD,Queens,11375,"110-60 QUEENS BOULEVARD , Queens, NY",06/19/2020,40.71921,-73.838954,Forest Hills
+80,1102,1134,roadway,Levante,Cibo 2621 LLC,Levante,26-15,Jackson Avenue,Queens,11101,"26-15 Jackson Avenue, Queens, NY",06/19/2020,40.747343,-73.94179399999999,Hunters Point-Sunnyside-West Maspeth
+81,1105,1137,both,Cabana,Cabana 70 Associates LP,Cabana 70 Associates LP,107-10,70th Road,Queens,11375,"107-10  70th Road , Queens, NY",06/19/2020,40.721058,-73.845573,Forest Hills
+82,1109,1141,both,Concettina Restaurant,Concettina Inc.,Concettina Inc.,5744,Willets Point Blvd,Queens,11357,"5744 Willets Point Blvd, Queens, NY",06/19/2020,,,
+83,1115,1147,both,The Wayland,"Eldridge Bistro, Inc",The Wayland,700,East 9th Street,Manhattan,10009,"700 East 9th Street, Manhattan, NY",06/19/2020,40.725224,-73.977848,Lower East Side
+84,1126,1158,both,Ama Raw Bar,Ama food Group llc,Ama raw bar,190,12th street ave b,Manhattan,10009,"190  12th street ave b, Manhattan, NY",06/19/2020,,,
+85,1142,1174,sidewalk,Jameson's Pub,Magnet Tavern & Rest Inc,Magnet Tavern & Rest Inc,421,Beach 129th Street,Queens,11694,"421 Beach 129th Street, Queens, NY",06/19/2020,40.578367,-73.84939200000001,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel
+86,1146,1178,sidewalk,Corazon de Mexico Restaurant & Bar,Corazon de Mexico Corp,Corazon de Mexico Corp,1009,50th ave,Queens,11101,"1009  50th ave, Queens, NY",06/19/2020,40.742638,-73.953581,Hunters Point-Sunnyside-West Maspeth
+87,1173,1205,both,St DYMPHNAS,St Dymphnas LLC,St Dymphnas LLC,117,Avenue A,Manhattan,10009,"117  Avenue A, Manhattan, NY",06/19/2020,40.726312,-73.98336,East Village
+88,1179,1211,sidewalk,Keuka Kafe a Wine Bar,Keuka Kafe Inc.,Keuka Kafe a Wine Bar,112-04,QUEENS BLVD,Queens,11375,"112-04 QUEENS BLVD, Queens, NY",06/19/2020,40.718078000000006,-73.836515,Forest Hills
+89,1187,1219,both,LIC BAR,ACROSS THE CREEK INC,ACROSS THE CREEK INC,4558,VERNON BLVD,Queens,11101,"4558 VERNON BLVD, Queens, NY",06/19/2020,40.747252,-73.952596,Hunters Point-Sunnyside-West Maspeth
+90,1195,1227,sidewalk,The Phoenix,Hughes Murray Walsh LLC,The Phoenix,447,East 13th Street,Manhattan,10009,"447 East 13th Street, Manhattan, NY",06/19/2020,40.730215,-73.982003,East Village
+91,1210,1242,both,Bamboo Ya,Bamboo Ya Sushi Inc.,Bamboo Ya Sushi Inc.,6912,Austin Street,Queens,11375,"6912 Austin Street, Queens, NY",06/19/2020,40.721523,-73.848523,Forest Hills
+92,1218,1250,sidewalk,Nowon,Nowon Inc,Nowon,507,E 6th st,Manhattan,10009,"507  E 6th st, Manhattan, NY",06/19/2020,40.725291,-73.98350500000001,East Village
+93,1277,1309,both,Bella Via Restaurant,Sal & vik corporation,Sal & vik corporation,4746,Vernon blvd,Queens,11101,"4746 Vernon blvd, Queens, NY",06/19/2020,40.744547999999995,-73.953503,Hunters Point-Sunnyside-West Maspeth
+94,1279,1311,both,Thai Direct Bowls,Thai Direct Inc,Thai Direct Bowls,131,Avenue A,Manhattan,10009,"131  Avenue A, Manhattan, NY",06/19/2020,40.726820000000004,-73.98299200000001,East Village
+95,1313,1345,both,Domo Taco,Domo Taco LLC,Domo Taco LLC,733,Franklin Avenue,Brooklyn,11238,"733 Franklin Avenue, Brooklyn, NY",06/19/2020,40.673628,-73.956887,Crown Heights North
+96,1319,1351,sidewalk,51st Bakery and Cafe,Stirling Hess Inc,DBA 51st Bakery and Cafe,1933-05-01T00:00:00.000,51st Avenue,Queens,11101,"5-33  51st Avenue, Queens, NY",06/19/2020,40.742428000000004,-73.95630899999999,Hunters Point-Sunnyside-West Maspeth
+97,1344,1376,both,El Camion Cantina,Monolith Inc,El Camion Cantina,194 Ave A,12 St,Manhattan,10009,"194 Ave A 12 St, Manhattan, NY",06/19/2020,40.729234999999996,-73.981206,East Village
+98,1355,1387,both,RIVIERA,ASPL CAFE INC,RIVIERA,34-48,STEINWAY STREET,Queens,11101,"34-48 STEINWAY STREET, Queens, NY",06/19/2020,40.755924,-73.92149,Astoria
+99,1360,1392,both,Pylos Restaurant,128 Mac Corp,Pylos Restaurant,128,E 7th,Manhattan,10009,"128 E 7th, Manhattan, NY",06/19/2020,,,
+100,1366,1398,both,Kura,Seiei LLC,Kura,130,St Marks Pl.,Manhattan,10009,"130 St Marks Pl., Manhattan, NY",06/19/2020,40.727207,-73.98439599999999,East Village
+101,1380,1412,sidewalk,Secchu Yokota,"Ethiopian Meskel, Inc.","Ethiopian Meskel, Inc.",199,East 3rd street,Manhattan,10009,"199 East 3rd street, Manhattan, NY",06/19/2020,40.722901,-73.98348399999999,East Village
+102,1406,1438,sidewalk,ADDA,Thomson Hospitality LLC,ADDA,3131,Thomson Avenue,Queens,11101,"3131 Thomson Avenue, Queens, NY",06/19/2020,40.744825,-73.93429300000001,Hunters Point-Sunnyside-West Maspeth
+103,1413,1445,sidewalk,Dua Kafe,DUA BYREK INC,DUA BYREK INC,520,E 14TH ST,Manhattan,10009,"520  E 14TH ST, Manhattan, NY",06/19/2020,40.730072,-73.97950300000001,East Village
+104,1420,1452,both,Manducatis Rustica,"Manducatis Rustica VIG, LTD","Manducatis Rustica VIG, LTD",4635,Vernon Blvd,Queens,11101,"4635 Vernon Blvd, Queens, NY",06/19/2020,40.745995,-73.952997,Hunters Point-Sunnyside-West Maspeth
+105,1437,1469,sidewalk,Villaggio,150-07 RESTAURANT CORP,Villaggio,150-07,14th road,Queens,11357,"150-07  14th road, Queens, NY",06/19/2020,40.787589000000004,-73.812889,Whitestone
+106,1447,1479,both,Khiladi,Khiladi LLC,Khiladi LLC,175,Avenue B,Manhattan,10009,"175  Avenue B , Manhattan, NY",06/19/2020,40.727558,-73.979391,Lower East Side
+107,1450,1482,both,Pineapple Club,Pineapple Club llc,Pineapple Club LLC,509,6th street,Manhattan,10009,"509 6th street, Manhattan, NY",06/19/2020,,,
+108,1462,1494,both,San Loco EV Inc,San Loco EV Inc,San Loco EV Inc,111,Avenue C,Manhattan,10009,"111 Avenue C, Manhattan, NY",06/19/2020,40.724275,-73.978732,Lower East Side
+109,1466,1498,both,The Lost Lady,"Seaside Beach, Inc",The Lost Lady,171,Avenue C,Manhattan,10009,"171 Avenue C, Manhattan, NY",06/19/2020,40.726203999999996,-73.977299,Lower East Side
+110,1491,1523,both,Mary O’s,Rolo Rest LLC,Mary O’s,32,Avenue A,Manhattan,10009,"32 Avenue A, Manhattan, NY",06/19/2020,40.723337,-73.985501,East Village
+111,1515,1547,sidewalk,Fonda,Fonda Avenue B LLC,Fonda Avenue B LLC,40,Avenue B,Manhattan,10009,"40  Avenue B , Manhattan, NY",06/19/2020,40.722821,-73.982871,East Village
+112,1521,1553,both,The Wild Son,"Animals Group, Inc",The Wild Son,132,1st Avenue,Manhattan,10009,"132 1st Avenue, Manhattan, NY",06/19/2020,40.727495000000005,-73.985352,East Village
+113,1535,1567,both,Agora Taverna,Ploutarxos Inc,Agora Taverna,7009,Austin Street,Queens,11375,"7009 Austin Street , Queens, NY",06/19/2020,40.720828999999995,-73.846588,Forest Hills
+114,1536,1568,both,Test,Test,Testtest,133,Avenue D,Manhattan,10009,"133 Avenue D , Manhattan, NY",06/19/2020,40.724379,-73.975536,Lower East Side
+115,1544,1576,both,Giano Restaurant,Giano Inc.,Giano Inc.,126,East 7th street,Manhattan,10009,"126 East 7th street, Manhattan, NY",06/19/2020,40.726248999999996,-73.984024,East Village
+116,1548,1580,both,Jora Restaurant & Bar,ROMA CREW INC,Jora Restaurant & Bar,47-46,11th street,Queens,11101,"47-46 11th street, Queens, NY",06/19/2020,40.744111,-73.951086,Hunters Point-Sunnyside-West Maspeth
+117,1550,1582,both,Paratha Wala Inc.,Paratha Wala Inc.,Paratha Wala Inc.,103-09,Metropolitan Avenue,Queens,11375,"103-09 Metropolitan Avenue , Queens, NY",06/19/2020,40.710268,-73.849577,Forest Hills
+118,1552,1584,sidewalk,Casa Adela Restaurant,Casa Adela Restaurant Corp.,Casa Adela Restaurant,66,Avenue C,Manhattan,10009,"66 Avenue C, Manhattan, NY",06/19/2020,40.722768,-73.979804,Lower East Side
+119,1553,1585,sidewalk,Chilo's,Three and a Half Men LLC,Chilo's,323,franklin ave,Brooklyn,11238,"323 franklin ave, Brooklyn, NY",06/19/2020,40.688354,-73.957098,Bedford
+120,1579,1611,sidewalk,Bierocracy,Monarchie 1 inc,Bierocracy,1223,1223 jackson ave,Queens,11101,"1223 1223 jackson ave, Queens, NY",06/19/2020,,,
+121,1580,1612,both,weather up & co,ward 8 LLC,weather up,589,vanderbilt avenue,Brooklyn,11238,"589 vanderbilt avenue, Brooklyn, NY",06/19/2020,40.679936,-73.968035,Prospect Heights
+122,1593,1625,sidewalk,"Ciao, Gloria","Ciao, Gloria LLC","Ciao, Gloria",550,Vanderbilt Avenue,Brooklyn,11238,"550 Vanderbilt Avenue, Brooklyn, NY",06/19/2020,40.680309,-73.967923,Prospect Heights
+123,1633,1665,sidewalk,Luthun,Luthun LLC,Luthun,432,E 13 st,Manhattan,10009,"432  E 13 st, Manhattan, NY",06/19/2020,40.730295,-73.982237,East Village
+124,1637,1669,both,Liola,LiolaLLC,Liola,15-01,149st.,Queens,11357,"15-01 149st., Queens, NY",06/19/2020,40.787067,-73.816177,Whitestone
+125,1693,1725,both,Avant Garden,Derossi Veg LLC,Avant Garden,130,E 7th Street,Manhattan,10009,"130 E 7th Street, Manhattan, NY",06/19/2020,40.726186,-73.983869,East Village
+126,1697,1729,both,7B Horseshoe Bar,August Vazac Rest. Inc.,7B Horseshoe Bar,108,Avenue B,Manhattan,10009,"108 Avenue B, Manhattan, NY",06/19/2020,40.724992,-73.98128299999999,East Village
+127,1703,1735,both,Night Music,Derossi Asia LLC,Night Music,111,East 7th Street,Manhattan,10009,"111 East 7th Street, Manhattan, NY",06/19/2020,40.726576,-73.98476,East Village
+128,1705,1737,sidewalk,Gomi Korean Wine Bar,186 A Enterprises Inc.,dba Cork and Fork,186,Avenue A,Manhattan,10009,"186 Avenue A, Manhattan, NY",06/19/2020,40.728876,-73.981466,East Village
+129,1709,1741,both,Reef,10802 72nd rest llc,Reef,108-02,72nd Ave,Queens,11375,"108-02 72nd Ave, Queens, NY",06/19/2020,40.719508000000005,-73.84250300000001,Forest Hills
+130,1716,1748,both,Cabo,Cabo Page Avenue Associates LLC,Cabo Page Avenue Associates LLC,96,Page Avenue,Staten Island,10309,"96 Page Avenue , Staten Island, NY",06/19/2020,40.521899,-74.235025,Charleston-Richmond Valley-Tottenville
+131,1722,1754,sidewalk,Grape and Grain,620 EAST 6TH STREET RESTAURANT LLC,Grape and Grain,620,E 6th Street,Manhattan,10009,"620 E 6th Street, Manhattan, NY",06/19/2020,40.724067,-73.980641,Lower East Side
+132,1725,1757,both,Ladybird,Derossi Mac LLC,Ladybird,111,"East 7th Street, Store West",Manhattan,10009,"111 East 7th Street, Store West, Manhattan, NY",06/19/2020,40.726576,-73.98476,East Village
+133,1737,1769,both,ZioToto Restaurant,Ziototo of staten island corp.,Ziototo of staten island corp.,86,page avenue,Staten Island,10309,"86 page avenue, Staten Island, NY",06/19/2020,40.522065999999995,-74.235011,Charleston-Richmond Valley-Tottenville
+134,1740,1772,both,Cafe Ole,Elimo Restaurant Corp,Elimo Restaurant Corp,38-09,36 Avenue,Queens,11101,"38-09 36 Avenue , Queens, NY",06/19/2020,40.753912,-73.92403,Astoria
+135,1752,1784,both,La Boulangerie de Francois,"La Boulangerie de Francois, Corp.",La Boulangerie de Francois,10901,72nd Road,Queens,11375,"10901 72nd Road, Queens, NY",06/19/2020,40.719043,-73.841505,Forest Hills
+136,1754,1786,both,Proletariat,Derossi Chelsea LLC,Proletariat,102,St Marks Place,Manhattan,10009,"102 St Marks Place, Manhattan, NY",06/19/2020,40.727375,-73.984796,East Village
+137,1757,1789,both,Mito Asian Fusion,Mito Asian Fusion INC,Mito Asian Fusion,64-18,108 street,Queens,11375,"64-18 108 street, Queens, NY",06/19/2020,40.732517,-73.849397,Forest Hills
+138,1773,1805,both,Desnuda,Warlord Enterprises LLC,Desnuda,122,East 7th Street,Manhattan,10009,"122 East 7th Street, Manhattan, NY",06/19/2020,40.726312,-73.984179,East Village
+139,1789,1821,both,Aged steakhouse,Aliaged dining inc,Aliaged dining inc,107-02,70th road,Queens,11375,"107-02  70th road, Queens, NY",06/19/2020,40.720789,-73.845744,Forest Hills
+140,1808,1840,both,Death & Co,Death & Co East Village LLC,Death & Co East Village LLC,433,East 6th St,Manhattan,10009,"433  East 6th St, Manhattan, NY",06/19/2020,40.726054,-73.985323,East Village
+141,1820,1852,both,ESTRELLA DO NORTE RESTAURANTE INC,ESTRELLA DO NORTE RESTAURANTE INC,Beija-Flor,3802,29th Street,Queens,11101,"3802 29th Street, Queens, NY",06/19/2020,40.754431,-73.93372099999999,Queensbridge-Ravenswood-Long Island City
+142,1852,1884,sidewalk,TabeTomo,AYS Noodle Company LLC,TabeTomo,131,Avenue A,Manhattan,10009,"131 Avenue A, Manhattan, NY",06/19/2020,40.726820000000004,-73.98299200000001,East Village
+143,1854,1886,both,ESTRELLA DO NORTE RESTAURANTE INC,beija-flor,beija-flor,3802,29th street,Queens,11101,"3802 29th street, Queens, NY",06/19/2020,40.754431,-73.93372099999999,Queensbridge-Ravenswood-Long Island City
+144,1868,1900,both,AUGUST LAURA,TABLE 20 LLC,AUGUST LAURA,94-96,AVENUE A,Manhattan,10009,"94-96 AVENUE A, Manhattan, NY",06/19/2020,40.725555,-73.983887,East Village
+145,1877,1909,both,Raclette,La Vraie Raclette LLC,La Vraie Raclette LLC,511,East 12th Street,Manhattan,10009,"511 East 12th Street, Manhattan, NY",06/19/2020,40.728878,-73.980805,East Village
+146,1879,1911,both,Queens Bully,R & S HOSPITALITY LLC,QUEENS BULLY,11330,QUEENS BOULEVARD,Queens,11375,"11330 QUEENS BOULEVARD, Queens, NY",06/19/2020,40.717517,-73.83552399999999,Forest Hills
+147,1881,1913,sidewalk,The Inkan Restaurant,Aldaza corp,Aldaza corp,4502,23rd street,Queens,11101,"4502  23rd street, Queens, NY",06/19/2020,40.746776000000004,-73.945371,Hunters Point-Sunnyside-West Maspeth
+148,1883,1915,sidewalk,Cafe Himalaya,Norsang Cafe inc,Cafe himalaya,78 East,1st street,Manhattan,10009,"78 East  1st street, Manhattan, NY",06/19/2020,40.723167,-73.988192,East Village
+149,1919,1951,both,Latin Cabana,Chango ochun enterprises inc,Latin Cabana,34-15,Steinway Street,Queens,11101,"34-15  Steinway Street , Queens, NY",06/19/2020,40.756289,-73.92116899999999,Astoria
+150,1920,1952,both,C&B,Coffee and Breakfast LLC,C&B,178,E 7th Street,Manhattan,10009,"178 E 7th Street, Manhattan, NY",06/19/2020,40.725269,-73.98169399999999,East Village
+151,1921,1953,both,Massa’s Coal Fired Pizzeria & Bar,"Massas of LIC, LLC",Massas Coal Fired Pizzeria & Bar,42-12,28th street,Queens,11101,"42-12  28th street, Queens, NY",06/19/2020,40.749628,-73.939175,Hunters Point-Sunnyside-West Maspeth
+152,1923,1955,both,10802 72nd rest llc,10802 72nd rest llc,Reef,10802,72nd ave,Queens,11375,"10802 72nd ave, Queens, NY",06/19/2020,40.719508000000005,-73.84250300000001,Forest Hills
+153,1927,1959,roadway,Caravan of Dreams,"The House of Health, Healing and Happiness Inc.","The House of Health, Healing and Happiness Inc.",405,East 6th,Manhattan,10009,"405 East 6th, Manhattan, NY",06/19/2020,,,
+154,1952,1984,sidewalk,BIN 141,ILLB inc,ILLB inc,43,Avenue A,Manhattan,10009,"43  Avenue A, Manhattan, NY",06/19/2020,40.723746000000006,-73.985226,East Village
+155,1970,2002,sidewalk,inaka asian cuisine,inaka asian cuisine inc,inaka asian cuisine,597,vanderbilt ave,Brooklyn,11238,"597 vanderbilt ave, Brooklyn, NY",06/19/2020,40.679664,-73.968129,Prospect Heights
+156,1976,2008,both,Frangos peri peri,Frango peri peri inc,Frango peri peri inc,182,Avenue b,Manhattan,10009,"182 Avenue b, Manhattan, NY",06/20/2020,40.727717,-73.979298,East Village
+157,1993,2025,sidewalk,Takahachi,KTM 7 INC.,KTM 7 INC.,85,Avenue A,Manhattan,10009,"85 Avenue A , Manhattan, NY",06/20/2020,40.725173,-73.98419100000001,East Village
+158,2033,2065,both,Virginia's,oyster city llc,Virginia's,647,East 11 Street,Manhattan,10009,"647 East 11 Street, Manhattan, NY",06/20/2020,40.72672,-73.977678,Lower East Side
+159,2076,2108,both,Island Cz Cafe,Island Cz Cafe LLC,Island Cz Cafe LLC,743,Franklin Avenue,Brooklyn,11238,"743 Franklin Avenue, Brooklyn, NY",06/20/2020,40.673425,-73.956963,Crown Heights North
+160,2090,2122,both,TabeTomo,AYS Noodle Company LLC,TabeTomo,131,Avenue A,Manhattan,10009,"131 Avenue A, Manhattan, NY",06/20/2020,40.726820000000004,-73.98299200000001,East Village
+161,2102,2134,both,MANOR OKTOBERFEST FOREST HILLS,"MANOR OKTOBERFEST FOREST HILLS, INC.",MANOR OKTOBERFEST FOREST HILLS,7311,Yellowstone Blvd,Queens,11375,"7311 Yellowstone Blvd, Queens, NY",06/20/2020,40.717669,-73.85700899999999,Forest Hills
+162,2105,2137,both,IZZY ROSE,224 GREENE AVE BAR LLC,IZZY ROSE,214,GREENE AVE,Brooklyn,11238,"214  GREENE AVE , Brooklyn, NY",06/20/2020,40.687055,-73.962785,Clinton Hill
+163,2107,2139,sidewalk,Underhill,Underhill Cafe and Grill LLC,Underhill Cafe and Grill LLC,760,Dean Street,Brooklyn,11238,"760 Dean Street, Brooklyn, NY",06/20/2020,40.679548,-73.96491999999999,Prospect Heights
+164,2109,2141,sidewalk,CLEMENTINE BAKERY,CLEMENTINE BAKERY LLC,CLEMENTINE BAKERY,395,CLASSON,Brooklyn,11238,"395  CLASSON , Brooklyn, NY",06/20/2020,,,
+165,2112,2144,both,Page plaza diner,Page plaza restaurant inc,Page plaza diner,75,Page avenue,Staten Island,10309,"75 Page avenue , Staten Island, NY",06/20/2020,40.52233,-74.234962,Charleston-Richmond Valley-Tottenville
+166,2161,2193,sidewalk,The Mac Shack,Got It Covered Inc,The Mac Shack,901,Fulton street,Brooklyn,11238,"901  Fulton street, Brooklyn, NY",06/20/2020,40.683578000000004,-73.967272,Clinton Hill
+167,2175,2207,both,El Mero Mero Restaurant,El Mero Mero Inc,El Mero Mero Inc,35-57,38th street,Queens,11101,"35-57 38th street , Queens, NY",06/20/2020,40.754652,-73.923585,Astoria
+168,2184,2216,sidewalk,Village Creperie,Victory’s flavor Corp,Victory’s flavor Corp,445,East 9th street,Manhattan,10009,"445  East 9th street, Manhattan, NY",06/20/2020,40.727405,-73.982978,East Village
+169,2187,2219,both,bibi wine bar,"You're Almost There, inc.",bibi wine bar,211,East 4th St.,Manhattan,10009,"211 East 4th St., Manhattan, NY",06/20/2020,40.723757,-73.983621,East Village
+170,2199,2231,both,HUB THAI,HUB THAI CORP.,HUB THAI CORP.,103-105,Avenue A,Manhattan,10009,"103-105 Avenue A, Manhattan, NY",06/20/2020,40.725796,-73.983736,East Village
+171,2204,2236,sidewalk,Chavela's,Bianchibk LLC,Chavela's,736,Franklin Avenue,Brooklyn,11238,"736 Franklin Avenue, Brooklyn, NY",06/20/2020,40.673429999999996,-73.956981,Crown Heights North
+172,2210,2242,sidewalk,Taverna Kyclades east village,Maccg LLC,Taverna Kyclades,228,14st,Manhattan,10009,"228  14st , Manhattan, NY",06/20/2020,,,
+173,2224,2256,both,Gueros Restaurant Inc.,Guero's Restaurant INC.,Guero's Restaurant INC.,605,Prospect Pl,Brooklyn,11238,"605 Prospect Pl, Brooklyn, NY",06/20/2020,40.675113,-73.956645,Crown Heights North
+174,2234,2266,sidewalk,Aita Trattoria,Regine Restaurants LLC,Aita Trattoria,798-A,Franklin ave,Brooklyn,11238,"798-A Franklin ave, Brooklyn, NY",06/20/2020,,,
+175,2250,2282,sidewalk,sisters,waiters 0 and 82llc,sisters,900,fulton,Brooklyn,11238,"900 fulton, Brooklyn, NY",06/20/2020,,,
+176,2259,2291,both,ROVE,Burklee LLC,ROVE,72-27,Austin,Queens,11375,"72-27 Austin, Queens, NY",06/20/2020,,,
+177,2267,2299,sidewalk,Aita Restaurant,GIURO LLC,Aita Restaurant,132,Greene ave,Brooklyn,11238,"132  Greene ave, Brooklyn, NY",06/20/2020,40.686603000000005,-73.966676,Clinton Hill
+178,2276,2308,sidewalk,"patsys of queens, llc","patsys of queens, llc","patsys of queens, llc",21-64,utopia parkway,Queens,11357,"21-64 utopia parkway, Queens, NY",06/20/2020,40.777414,-73.793438,Ft. Totten-Bay Terrace-Clearview
+179,2290,2322,both,Eastpoint,25 B Group Rest Ave LLC,25 B Group Rest Ave LLC,25,Avenue B,Manhattan,10009,"25 Avenue B, Manhattan, NY",06/20/2020,40.722316,-73.983214,Lower East Side
+180,2329,2361,both,Mike and Maggie’s Pizzeria,Mike and Maggie’s Pizzeria inc,Mike and Maggie’s Pizzeria inc,15 27,149th street,Queens,11357,"15 27 149th street, Queens, NY",06/20/2020,40.786293,-73.816284,Whitestone
+181,2330,2362,sidewalk,Esperanto,177 Chrystie Inc,Esperanto Restaurant,145,Avenue C,Manhattan,10009,"145 Avenue C, Manhattan, NY",06/20/2020,40.725381,-73.97792,Lower East Side
+182,2336,2368,sidewalk,Rincón Melania,Melania's Latin Cuisine Corp.,Rincón Melania,35-11,Queens Boulevard,Queens,11101,"35-11  Queens Boulevard , Queens, NY",06/20/2020,40.744437,-73.92962,Hunters Point-Sunnyside-West Maspeth
+183,2352,2384,sidewalk,R&D Foods,R&D&W Market LLC,R&D Foods,602,Vanderbilt Avenue,Brooklyn,11238,"602 Vanderbilt Avenue, Brooklyn, NY",06/20/2020,40.678303,-73.968641,Prospect Heights
+184,2355,2387,both,IL POSTO ACCANTO,AND ANOTHER ONE INC.,IL POSTO ACCANTO,190,EAST  2ND STREET,Manhattan,10009,"190  EAST  2ND STREET, Manhattan, NY",06/20/2020,40.722365,-73.98423100000001,East Village
+185,2379,2411,both,Madera Cuban Grill,Madera Pizza & Grill Inc,Madera Pizza & Grill Inc,47-29,Vernon blvd,Queens,11101,"47-29  Vernon blvd, Queens, NY",06/20/2020,40.744686,-73.953438,Hunters Point-Sunnyside-West Maspeth
+186,2418,2450,both,Xe May Sandwich Shop,N & W Food Services INC,Xe May Sandwich Shop,96,Saint Marks Place,Manhattan,10009,"96 Saint Marks Place, Manhattan, NY",06/20/2020,40.727413,-73.984883,East Village
+187,2452,2484,both,Ho Foods NYC,Ho Foods NYC LLC,Ho Foods NYC LLC,110,East 7th Street,Manhattan,10009,"110 East 7th Street, Manhattan, NY",06/20/2020,40.726507,-73.984641,East Village
+188,2456,2488,sidewalk,Erins isle,Harfrank corp,Erin’s Isle,15403,Cross Island Pkwy,Queens,11357,"15403 Cross Island Pkwy, Queens, NY",06/20/2020,40.786878,-73.807785,Whitestone
+189,2463,2495,both,Jell & Chill,Jell & Chill LLC,Jell & Chill,110,East 7th St,Manhattan,10009,"110  East 7th St, Manhattan, NY",06/20/2020,40.726507,-73.984641,East Village
+190,2479,2511,both,Nick's Bistro,Nicobar Ltd.,Nick,104-20,Metropolitan Ave,Queens,11375,"104-20  Metropolitan Ave, Queens, NY",06/20/2020,40.710060999999996,-73.848409,Forest Hills
+191,2487,2519,both,Dylan's Forest Hills,B.A.M. BAR LLC,B.A.M. BAR LLC,103-19,Metropolitan Ave,Queens,11375,"103-19 Metropolitan Ave , Queens, NY",06/20/2020,40.710215999999996,-73.84925600000001,Forest Hills
+192,2504,2536,both,Boggy Depot Inc,Boggy Depot Inc,Drom,85 Ave,Avenue A,Manhattan,10009,"85 Ave Avenue A, Manhattan, NY",06/20/2020,,,
+193,2532,2564,sidewalk,PLADO TASTING BAR,germat of ny inc,plado,190/192,EAST 2ND STREET,Manhattan,10009,"190/192 EAST 2ND STREET, Manhattan, NY",06/20/2020,,,
+194,2557,2589,sidewalk,Go Nonnna,Arelo LLC,Go Nonna,18537,"10-50 44th Drive, store #2",Queens,11101,"10-50  10-50 44th Drive, store #2, Queens, NY",06/20/2020,,,
+195,2585,2617,roadway,Lavagna,Desmo 916 Corp,Desmo 916 Corp,545,E. 5th St.,Manhattan,10009,"545 E. 5th St., Manhattan, NY",06/20/2020,40.724416,-73.98332099999999,East Village
+196,2601,2633,both,2A,Swauto Ltd,2A/Berlin,25,Ave A,Manhattan,10009,"25 Ave A, Manhattan, NY",06/20/2020,40.722909,-73.98583599999999,East Village
+197,2612,2644,both,Niagara Tompkins Square Bar,Tozzer Ltd,Tozzer Ltd,110- 112,Ave A,Manhattan,10009,"110- 112 Ave A, Manhattan, NY",06/20/2020,40.725881,-73.983649,East Village
+198,2620,2652,both,Dream Baby,162-4 Ave B Bar Inc,Dream Baby,162-4,Ave B,Manhattan,10009,"162-4  Ave B , Manhattan, NY",06/20/2020,40.727066,-73.979774,East Village
+199,2634,2666,roadway,Big aLICe Brewing Company,Big aLICe Brewing Company LLC,Big aLICe Brewing Company,44051,43rd Road,Queens,11101,"8-08 43rd Road, Queens, NY",06/20/2020,40.752331,-73.950751,Hunters Point-Sunnyside-West Maspeth
+200,2638,2670,both,Village Square Pizza,The Village Square Pizza,The Village Square Pizza,147,Ave A,Manhattan,10009,"147 Ave A, Manhattan, NY",06/20/2020,40.727413,-73.982559,East Village
+201,2642,2674,sidewalk,Nick's Pizza,Ascan Pizza Corp,Nick's Pizza,108-26,Ascan Ave,Queens,11375,"108-26  Ascan Ave, Queens, NY",06/20/2020,40.718013,-73.840772,Forest Hills
+202,2647,2679,both,Eve's,Eve's 3 LLC,Eve's,769,Washington Avenue,Brooklyn,11238,"769  Washington Avenue, Brooklyn, NY",06/20/2020,40.673839,-73.962991,Prospect Heights
+203,2661,2693,both,Il Poeta,Malu 2008 Corporation,Malu 2008 Corporation,9804,Metropolitan Avenue,Queens,11375,"9804 Metropolitan Avenue, Queens, NY",06/20/2020,40.711026000000004,-73.854474,Forest Hills
+204,2662,2694,both,NOURISH,HENG HENG GROUP INC,HENG HENG GROUP INC,637A,VANDERBILT AVE,Brooklyn,11238,"637A  VANDERBILT AVE, Brooklyn, NY",06/20/2020,40.678042,-73.968714,Prospect Heights
+205,2663,2695,sidewalk,Cyclo,NGMC Restaurant Incorporated,Cyclo,551,47th Ave,Queens,11101,"551  47th Ave, Queens, NY",06/20/2020,40.745883,-73.955137,Hunters Point-Sunnyside-West Maspeth
+206,2679,2711,sidewalk,LA CHOZA DEL GORDO RESTAURANT,LA CHOZA DEL GORDO CORP,LA CHOZA DEL GORDO CORP,4105,NORTHERN BLVD,Queens,11101,"4105 NORTHERN BLVD, Queens, NY",06/20/2020,40.752865,-73.9224,Astoria
+207,2687,2719,sidewalk,Cafe Cortadito,Cafe Cortadito  LLC,Cafe Cortadito  LLC,210,East 3rd street,Manhattan,10009,"210  East 3rd street, Manhattan, NY",06/20/2020,40.722519,-73.982625,Lower East Side
+208,2691,2723,both,PUERTO VIEJO RESTAURANT CORP,PUERTO VIEJO RESTAURANT CORP.,PUERTO VIEJO DOMINICAN BISTRO,564,GRAND AVENUE,Brooklyn,11238,"564 GRAND AVENUE, Brooklyn, NY",06/20/2020,40.678823,-73.962007,Prospect Heights
+209,2699,2731,roadway,Westville Bakery,Westville Bakery LLC,Westville Bakery,433,east 9th,Manhattan,10009,"433 east 9th, Manhattan, NY",06/20/2020,,,
+210,2702,2734,both,Buenos Aires,Ba Victory Corp,Buenos Aires,513,East 6th,Manhattan,10009,"513   East 6th, Manhattan, NY",06/20/2020,,,
+211,2729,2761,sidewalk,Choice Market Brooklyn,"Lolagets, Inc","Lolagets, Inc",318,Lafayette,Brooklyn,11238,"318  Lafayette, Brooklyn, NY",06/21/2020,,,
+212,2732,2764,both,Cobblestones Pub,"Mas-sar-o, Inc.",Cobblestones Pub,117-18,Queens Blvd.,Queens,11375,"117-18 Queens Blvd., Queens, NY",06/21/2020,40.71532,-73.83251,Forest Hills
+213,2739,2771,both,11th St. Bar,Delta 510 Corp.,11th St. Bar,510,East 11th Street,Manhattan,10009,"510 East 11th Street, Manhattan, NY",06/21/2020,40.728221999999995,-73.981282,East Village
+214,2742,2774,sidewalk,Griddle Cafe & Deli,Griddle Inc,Griddle Inc,3018,Hunters Point Avenue,Queens,11101,"3018 Hunters Point Avenue, Queens, NY",06/21/2020,40.740484,-73.937639,Hunters Point-Sunnyside-West Maspeth
+215,2753,2785,both,Lincoln Station,Lincoln Station LLC,Lincoln Station,409,Lincoln Place,Brooklyn,11238,"409  Lincoln Place, Brooklyn, NY",06/21/2020,40.672554,-73.96249,Prospect Heights
+216,2754,2786,sidewalk,Finn's Corner,Finnister LLC.,Finn's Corner,660,Washington Ave,Brooklyn,11238,"660  Washington Ave, Brooklyn, NY",06/21/2020,40.678365,-73.963882,Prospect Heights
+217,2758,2790,sidewalk,To Steki,To Steki,To Steki,14 20,Willets point boulouvart,Queens,11357,"14 20 Willets point boulouvart , Queens, NY",06/21/2020,,,
+218,2774,2806,sidewalk,AUSTIN HOUSE,DAFNON FOOD CORP,AUSTIN HOUSE,72-04,AUSTIN STREET,Queens,11375,"72-04  AUSTIN STREET, Queens, NY",06/21/2020,40.719223,-73.842363,Forest Hills
+219,2790,2822,both,Sit & Wonder,688 Washington LLC,Sit & Wonder,688,Washington Avenue,Brooklyn,11238,"688 Washington Avenue, Brooklyn, NY",06/21/2020,40.67733,-73.963685,Prospect Heights
+220,2820,2852,sidewalk,The Hard Swallow,Big Lee and Sashas Inc,The Hard Swallow,140,1st Avenue,Manhattan,10009,"140 1st Avenue, Manhattan, NY",06/21/2020,40.727852,-73.985088,East Village
+221,2836,2868,both,Avenue C,Avenue C Restaurant LLC,Avenue C Restaurant LLC,102,Avenue C,Manhattan,10009,"102 Avenue C, Manhattan, NY",06/21/2020,40.723951,-73.978942,Lower East Side
+222,2844,2876,roadway,Anable Basin Sailing Bar and Grill,Anable Basin Sailing Inc,Anable Basin Sailing Inc,14702,44 drive,Queens,11101,"4-40 44 drive, Queens, NY",06/21/2020,40.749506,-73.955153,Hunters Point-Sunnyside-West Maspeth
+223,2849,2881,sidewalk,Smor,Twobonbes Catering LLC,Smor,441,East 12th street,Manhattan,10009,"441 East 12th street, Manhattan, NY",06/21/2020,40.729490000000006,-73.982274,East Village
+224,2879,2911,both,James,James Restaurant Group LLC,James Restaurant Group LLC,605,Carlton Avenue,Brooklyn,11238,"605 Carlton Avenue, Brooklyn, NY",06/21/2020,40.679023,-73.971763,Prospect Heights
+225,2896,2928,sidewalk,Mama's Coffee Shop and Restaurant,MAMAS COFFEE SHOP CORP,MAMAS COFFEE SHOP CORP,1301,40th avenue,Queens,11101,"1301 40th avenue, Queens, NY",06/21/2020,40.755594,-73.941924,Queensbridge-Ravenswood-Long Island City
+226,2905,2937,sidewalk,Song’s Dumpling Cafe,Song’s Dumpling Cafe,Song’s Dumpling Cafe,102-06,Metropolitan Ave,Queens,11357,"102-06  Metropolitan Ave, Queens, NY",06/21/2020,40.710434,-73.850734,Forest Hills
+227,2908,2940,both,Manettas Fine Food Corp,Manetta's Fine Food Corp.,Manettas Ristorante,1074-76,Jackson Ave,Queens,11101,"1074-76 Jackson Ave, Queens, NY",06/21/2020,,,
+228,2916,2948,sidewalk,The International Bar,Justified LLC,The International Bar,102,First Avenue,Manhattan,10009,"102 First Avenue, Manhattan, NY",06/21/2020,40.726529,-73.986052,East Village
+229,2919,2951,both,Cuisine by Claudette,"Cuisine by Claudette, LLC",Cuisine by Claudette,143,Beach 116th Street,Queens,11694,"143 Beach 116th Street, Queens, NY",06/21/2020,40.578775,-73.836618,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel
+230,2926,2958,both,Chillato,Just Chill’d llc,Chillato,17-16,154th street,Queens,11357,"17-16 154th street, Queens, NY",06/21/2020,40.783198,-73.80849599999999,Whitestone
+231,2929,2961,both,Kc gourmet empanadas,Kc gourmet empanadas,Kc gourmet empanadas llc,38,Ave B,Manhattan,10009,"38  Ave B, Manhattan, NY",06/21/2020,40.722769,-73.982907,East Village
+232,2939,2971,both,1 DEGREE UP,ASTORIA LOUNGE LLC,1 DEGREE UP,3007,NEWTOWN AVE,Queens,11101,"3007 NEWTOWN AVE, Queens, NY",06/21/2020,40.768243,-73.92114000000001,Old Astoria
+233,2948,2980,sidewalk,Ess-a-Bagel,"Ess-a-Bagel Too, Inc.",Ess-a-Bagel,324,1st Ave,Manhattan,10009,"324 1st Ave, Manhattan, NY",06/21/2020,40.734337,-73.98023,Stuyvesant Town-Cooper Village
+234,2957,2989,both,Country House Diner,Country House Diner,Country House Diner,887,Fulton Street,Brooklyn,11238,"887 Fulton Street, Brooklyn, NY",06/21/2020,40.683699,-73.967799,Clinton Hill
+235,2966,2998,sidewalk,Taberna 97,Taberna 97 inc,Taberna 97,97,St. Marks pl,Manhattan,10009,"97 St. Marks pl, Manhattan, NY",06/21/2020,40.727394,-73.984796,East Village
+236,2983,3015,sidewalk,Diamond Reef,1057 Atlantic Avenuem LLC,Diamond Reef,1057,Atlantic Avenue,Brooklyn,11238,"1057 Atlantic Avenue, Brooklyn, NY",06/21/2020,40.679504,-73.956678,Clinton Hill
+237,3017,3049,both,brooklyn beans roastarey,LATTE BISTRO CAFE,BROOKLYN BEAN ROASTRY,23,AVE A,Manhattan,10009,"23 AVE A, Manhattan, NY",06/21/2020,40.722871000000005,-73.985865,East Village
+238,3018,3050,sidewalk,C-LOUNGE,COCKTAIL ART LLC,COCKTAIL ART LLC,14,Avenue C,Manhattan,10009,"14 Avenue C, Manhattan, NY",06/21/2020,40.721102,-73.98101700000001,Lower East Side
+239,3027,3059,sidewalk,The Crown inn,Franklin beer and grocery inc,The crown inn,724,Franklin ave,Brooklyn,11238,"724  Franklin ave, Brooklyn, NY",06/21/2020,40.673761999999996,-73.956862,Crown Heights North
+240,3060,3092,both,Savanna Rooftop,1101-43 Rest Sub LLC,Savanna Rooftop,44136,43rd Avenue,Queens,11101,"11-01 43rd Avenue, Queens, NY",06/21/2020,40.751787,-73.947926,Hunters Point-Sunnyside-West Maspeth
+241,3061,3093,both,Bund chinese restaurant,The Bund Inc,The Bund Inc,100-30,Queens Blvd,Queens,11375,"100-30  Queens Blvd, Queens, NY",06/21/2020,40.726816,-73.853346,Forest Hills
+242,3074,3106,sidewalk,the blvd. restaurant & lounge,1911 blvd corp.,the blvd. restaurant & lounge,19-11,francis lewis blvd.,Queens,11357,"19-11 francis lewis blvd., Queens, NY",06/21/2020,40.780823,-73.802939,Ft. Totten-Bay Terrace-Clearview
+243,3079,3111,sidewalk,Hibino LIC,Kumagusu LLC,Kumagusu LLC,1070,jackson avenue,Queens,11101,"1070  jackson avenue, Queens, NY",06/21/2020,40.742767,-73.952198,Hunters Point-Sunnyside-West Maspeth
+244,3092,3124,both,beron beron,mononoke inc.,mononoke inc.,164,1st avenue,Manhattan,10009,"164 1st avenue, Manhattan, NY",06/21/2020,40.728854,-73.984356,East Village
+245,3098,3130,both,Horus Kabab House,El Sayed 1 Corp,Horus Kabab House,93,Avenue B,Manhattan,10009,"93 Avenue B, Manhattan, NY",06/21/2020,40.724575,-73.981561,Lower East Side
+246,3117,3149,both,Lucky,"Oops of New York, Inc.",Lucky,168,Avenue B,Manhattan,10009,"168 Avenue B, Manhattan, NY",06/21/2020,40.727226,-73.979659,East Village
+247,3159,3191,both,Sway Cafe,Sway Cafe Inc,Sway Cafe,4110,34th Avenue,Queens,11101,"4110  34th Avenue, Queens, NY",06/21/2020,40.756212,-73.919891,Astoria
+248,3181,3213,sidewalk,Tom’s Restaurant,Tom’s Restaurant Inc,Tom’s Restaurant Inc,782,Washington Avenue,Brooklyn,11238,"782 Washington Avenue , Brooklyn, NY",06/22/2020,40.674426000000004,-73.96311999999999,Prospect Heights
+249,3192,3224,both,Peaches Shrimp & Crab,Hot Chicken LLC,Peaches Shrimp & Crab,41-43,Clifton Place,Brooklyn,11238,"41-43 Clifton Place , Brooklyn, NY",06/22/2020,40.687878000000005,-73.962273,Clinton Hill
+250,3207,3239,both,THE SPOTTED OWL,TAVERN 211 CORP,THE SPOTTED OWL,211,AVE A,Manhattan,10009,"211 AVE A, Manhattan, NY",06/22/2020,40.729828000000005,-73.98079399999999,East Village
+251,3211,3243,both,THE SPOTTED OWL,211 TAVERN CORP,THE SPOTTED OWL,211,AVE A,Manhattan,10009,"211  AVE A, Manhattan, NY",06/22/2020,40.729828000000005,-73.98079399999999,East Village
+252,3270,3302,sidewalk,Vernon Grille Eat Greek,Fanhon Realty,Fanhon Realty,48-20,Vernon Blvd.,Queens,11101,"48-20  Vernon Blvd. , Queens, NY",06/22/2020,40.743912,-73.953717,Hunters Point-Sunnyside-West Maspeth
+253,3273,3305,sidewalk,"Rossy’s Bakery & Coffee Shop, Inc","Rossy’s Bakery & Coffee Shop, Inc","Rossy’s Bakery & Coffee Shop, Inc",242,E. 3rd Street,Manhattan,10009,"242 E. 3rd Street, Manhattan, NY",06/22/2020,40.72222,-73.981915,Lower East Side
+254,3288,3320,sidewalk,El Rey Latino,R C & E RESTAURANT,R C & E RESTAURANT,6342,108,Queens,11375,"6342 108, Queens, NY",06/22/2020,,,
+255,3302,3334,both,VISTAMAR RESTAURANT & LOUNGE CORP,VISTAMAR RESTAURANT & LOUNGE CORP,VISTAMAR RESTAURANT & LOUNGE CORP,565,CITY ISLAND AVE,Bronx,10464,"565 CITY ISLAND AVE, Bronx, NY",06/22/2020,40.853745,-73.79030999999999,Pelham Bay-Country Club-City Island
+256,3307,3339,roadway,5 Burro Cafe,Marla's Food Corp,5 Burro Cafe,7203,Austin Street,Queens,11375,"7203 Austin Street, Queens, NY",06/22/2020,40.719266999999995,-73.842417,Forest Hills
+257,3320,3352,sidewalk,TWO BOOTS PIZZA,TB DOUBLESHOT LLC,TB DOUBLESHOT LLC,42,AVE A,Manhattan,10009,"42 AVE A, Manhattan, NY",06/22/2020,40.723738,-73.985208,East Village
+258,3339,3371,sidewalk,Citrico,Luneta LLC,Luneta LLC,681,Washington Avenue,Brooklyn,11238,"681 Washington Avenue, Brooklyn, NY",06/22/2020,40.676894,-73.963584,Prospect Heights
+259,3350,3382,sidewalk,Villa Brasil Cafe Corp,Villa Brasil Cafe Corp,BTB SERVICES CORP.,43-16,34th Avenuue,Queens,11101,"43-16 34th Avenuue, Queens, NY",06/22/2020,,,
+260,3370,3403,sidewalk,Brooks 1890 Resturant,DiPalo-Romano Corporation,DiPalo-Romano Corporation,2428,Jackson Ave.,Queens,11101,"2428 Jackson Ave., Queens, NY",06/22/2020,40.7464,-73.944198,Hunters Point-Sunnyside-West Maspeth
+261,3385,3418,both,MEZZE,Rego pita 2,Rego pita 2,10018,Queens Blvd,Queens,11375,"10018 Queens Blvd , Queens, NY",06/22/2020,40.726851,-73.853443,Forest Hills
+262,3411,3444,both,Narita Japanese restaurant,Narita Japanese restaurant,Narita Japanese restaurant,10708,70th rd,Queens,11375,"10708 70th rd, Queens, NY",06/22/2020,40.720989,-73.845613,Forest Hills
+263,3426,3459,both,Chosen Garden,Chosen Garden Inc,Chosen Garden Inc,64-43,108th St,Queens,11375,"64-43 108th St, Queens, NY",06/22/2020,40.732077000000004,-73.849149,Forest Hills
+264,3442,3475,both,LOOK,omsutip inc,LOOK by Plant Love House,622,Washington ave,Brooklyn,11238,"622  Washington ave, Brooklyn, NY",06/22/2020,40.679831,-73.964163,Prospect Heights
+265,3444,3477,both,Westville,"Westville Restaurant, Inc",Westville East,173,Avenue A,Manhattan,10009,"173 Avenue A, Manhattan, NY",06/22/2020,40.728359999999995,-73.981866,East Village
+266,3453,3486,both,Guantanamera Restaurant,Armex 4 Trattoria Corp.,Guantanamera Restaurant,110-80,Queens Blvd,Queens,11375,"110-80  Queens Blvd, Queens, NY",06/22/2020,40.718959000000005,-73.838399,Forest Hills
+267,3509,3544,roadway,Numero 28,MCRB,Numero 28,10212,70 th road,Queens,11375,"10212 70 th road , Queens, NY",06/22/2020,,,
+268,3522,3557,sidewalk,Numero 28,MCRB,Numero 28,10712,70 th road,Queens,11375,"10712 70 th road , Queens, NY",06/22/2020,,,
+269,3527,3562,both,Maison Yaki,626 VAN LLC,Maison Yaki,626,Vanderbilt Ave,Brooklyn,11238,"626 Vanderbilt Ave, Brooklyn, NY",06/22/2020,40.677439,-73.968952,Prospect Heights
+270,3535,3570,both,Olmsted,Olmsted LLC,Olmsted,659-661,Vanderbilt Ave,Brooklyn,11238,"659-661 Vanderbilt Ave, Brooklyn, NY",06/22/2020,40.677222,-73.96901,Prospect Heights
+271,3567,3602,sidewalk,Bergen Bagels,Mira Foods LLC,Bergen Bagels,949,Fulton Street,Brooklyn,11238,"949 Fulton Street , Brooklyn, NY",06/22/2020,40.683125,-73.965149,Clinton Hill
+272,3618,3653,sidewalk,Sapps,Sapparo Dutch Kills Inc,Sapps,27-26,Jackson Ave,Queens,11101,"27-26 Jackson Ave, Queens, NY",06/22/2020,40.747907,-73.940148,Hunters Point-Sunnyside-West Maspeth
+273,3622,3657,both,Ferns,AGN Restaurant LLC,The Fern,166,1st Avenue,Manhattan,10009,"166 1st Avenue, Manhattan, NY",06/22/2020,40.728909,-73.98432,East Village
+274,3633,3668,roadway,Vernon Grille,Fanchon Realty,Fanchon Realty,48-20,Vernon Blvd,Queens,11101,"48-20 Vernon Blvd , Queens, NY",06/22/2020,40.743912,-73.953717,Hunters Point-Sunnyside-West Maspeth
+275,3634,3669,both,CASA ENRIQUE,CAFE H INC.,CASA ENRIQUE,17654,49TH AVENUE,Queens,11101,"5-48 49TH AVENUE, Queens, NY",06/22/2020,40.743792,-73.955839,Hunters Point-Sunnyside-West Maspeth
+276,3637,3672,both,LA ROTISSERIE DU COIN,AROUCHE LLC,LA ROTISSERIE DU COIN,107 10,71st ROAD,Queens,11375,"107 10  71st ROAD, Queens, NY",06/22/2020,40.71999,-73.84351600000001,Forest Hills
+277,3641,3676,both,glorietta baldy,502 franklin ave llc,glorietta baldy,502,franklin avenue,Brooklyn,11238,"502 franklin avenue, Brooklyn, NY",06/22/2020,40.681502,-73.955754,Clinton Hill
+278,3643,3678,both,House of Thai,TJH MAHASARN LLC,House of Thai,2501,40th Ave,Queens,11101,"2501 40th Ave, Queens, NY",06/22/2020,40.753434000000006,-73.93781800000001,Queensbridge-Ravenswood-Long Island City
+279,3655,3690,both,Elsayed III Corp,Elsayed III Corp,Horus Cafe,293,E 10th Street,Manhattan,10009,"293  E 10th Street, Manhattan, NY",06/22/2020,40.727706,-73.981874,East Village
+280,3676,3711,both,Ruffian Wine Bar,"PJC Restaurant, LLC",Ruffian Wine Bar,125,E 7th St,Manhattan,10009,"125  E 7th St, Manhattan, NY",06/22/2020,40.726386,-73.984309,East Village
+281,3677,3712,both,Bellwether,ME7782 LLC,Bellwether,4725,Vernon Blvd,Queens,11101,"4725  Vernon Blvd, Queens, NY",06/22/2020,40.744902,-73.953362,Hunters Point-Sunnyside-West Maspeth
+282,3679,3714,sidewalk,hupo,shuang inc,hupo,44111,50th Ave,Queens,11101,"10-07 50th Ave, Queens, NY",06/22/2020,40.742649,-73.95365600000001,Hunters Point-Sunnyside-West Maspeth
+283,3681,3716,both,Dive Bar LIC,"Wolfe L.I.C., INC",Dive Bar LIC,33-10,36th Avenue,Queens,11375,"33-10 36th Avenue, Queens, NY",06/22/2020,40.755745000000005,-73.92798,Queensbridge-Ravenswood-Long Island City
+284,3695,3730,sidewalk,No. 7 Restaurant,No. 7 Restaurant LLC,No. 7 Restaurant,7,Greene Avenue,Brooklyn,11238,"7 Greene Avenue, Brooklyn, NY",06/22/2020,40.685874,-73.972961,Fort Greene
+285,3700,3735,both,Ode to Babel,Aleim Adorn Inc.,Ode to Babel,772,Dean Street,Brooklyn,11238,"772 Dean Street, Brooklyn, NY",06/22/2020,40.679474,-73.964574,Prospect Heights
+286,3717,3752,both,Alphabet City Beer Co.,Alphabet City Beer Co.,ABC Beer Co.,96,Avenue C,Manhattan,10009,"96 Avenue C, Manhattan, NY",06/22/2020,40.723764,-73.979079,Lower East Side
+287,3789,3825,sidewalk,Screamers Pizzeria,Champs Jr Inc,Screamers Pizzeria,685,franklin ave,Brooklyn,11238,"685  franklin ave, Brooklyn, NY",06/22/2020,40.675225,-73.95631,Crown Heights North
+288,3821,3857,sidewalk,Doha,Pa Chango INC,DOHA,38-34,31st Street,Queens,11101,"38-34 31st Street, Queens, NY",06/22/2020,40.753362,-73.932379,Queensbridge-Ravenswood-Long Island City
+289,3852,3888,sidewalk,PACKARD CAFE,CAFE ON CRESCENT INC,PACKARD CAFE,41-34C,CRESCENT STREET,Queens,11101,"41-34C CRESCENT STREET, Queens, NY",06/22/2020,40.751739,-73.93956700000001,Queensbridge-Ravenswood-Long Island City
+290,3883,3919,both,LE MIU CORP,LE MIU CORP,LE MIU CORP,107,AVENUE A,Manhattan,10009,"107 AVENUE A, Manhattan, NY",06/22/2020,40.725912,-73.983649,East Village
+291,3896,3932,roadway,a,Avenue Cafe,Avenue Cafe,35-27,30th Avenue,Queens,11357,"35-27 30th Avenue, Queens, NY",06/22/2020,40.765276,-73.917916,Astoria
+292,3908,3944,roadway,Amor y Amargo,Cien Fuegos LLC,Amor y Amargo,95,Avenue A,Manhattan,10009,"95 Avenue A, Manhattan, NY",06/22/2020,40.725563,-73.98390500000001,East Village
+293,3942,3978,both,Matiz latin cuisine,Matiz latín cuisine,Matiz latín cuisine,110 72,queens blvd,Queens,11375,"110 72  queens blvd, Queens, NY",06/22/2020,40.71913,-73.83877,Forest Hills
+294,3969,4005,roadway,Partners Coffee,Partners Coffee LLC,Partners Coffee LLC,26-25,Jackson Ave,Queens,11101,"26-25  Jackson Ave, Queens, NY",06/22/2020,40.747444,-73.94149399999999,Hunters Point-Sunnyside-West Maspeth
+295,3997,4033,roadway,Rogers Bar,"Rogers McMahon, INC","Rogers McMahon, INC",205,Beach 116th street,Queens,11694,"205 Beach 116th street , Queens, NY",06/22/2020,40.57994,-73.837285,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel
+296,4050,4086,sidewalk,Pantry Market Eatery,2420 Group LLC,Pantry Market Eatery,2420,Jackson Avenue,Queens,11101,"2420 Jackson Avenue , Queens, NY",06/22/2020,40.746311999999996,-73.944408,Hunters Point-Sunnyside-West Maspeth
+297,4062,4098,sidewalk,"Astoria Apple, LLC","Astoria Apple, LLC",Applebee's Neighborhood Grill & Bar,38-01,35th St,Queens,11101,"38-01 35th St, Queens, NY",06/22/2020,,,
+298,4083,4119,sidewalk,Gotta Getta Bagel of Queens of NYC,Gotta Getta Bagel of Queens of NYC.inc,Gotta Getta Bagel of Queens of NYC.inc,107-09,71st Ave,Queens,11375,"107-09 71st Ave , Queens, NY",06/23/2020,40.720401,-73.844651,Forest Hills
+299,4110,4146,both,B-CUP CAFE,PW FOOD ENTERPRISES INC.,B-CUP CAFE,212,AVE B.,Manhattan,10009,"212 AVE B., Manhattan, NY",06/23/2020,40.728603,-73.978651,East Village
+300,4128,4164,sidewalk,Bangkok cuisine,BKK forest hills inc,Bangkok cuisine,10718,70th road,Queens,11375,"10718 70th road, Queens, NY",06/23/2020,40.721327,-73.845403,Forest Hills
+301,4143,4179,roadway,Beny’s delice,M2m f&b llc,M2m f&b llc,903,Fulton,Brooklyn,11238,"903 Fulton, Brooklyn, NY",06/23/2020,,,
+302,4150,4186,sidewalk,Lm cafe,Lm fine food management,Lm fine food,2,11-11 44th rd,Queens,11101,"2 11-11 44th rd, Queens, NY",06/23/2020,,,
+303,4177,4213,both,Konditori,PIRK Washington LLC,PIRK Washington LLC,696,Washington Ave,Brooklyn,11238,"696 Washington Ave, Brooklyn, NY",06/23/2020,40.677135,-73.963649,Prospect Heights
+304,4182,4218,both,Otto’s Shrunken Head,SPT corp.,Otto’s Shrunken Head Tiki Bar & Lounge,538,East 14th Street,Manhattan,10009,"538 East 14th Street, Manhattan, NY",06/23/2020,40.729819,-73.978922,East Village
+305,4188,4224,sidewalk,White Tiger,"Vanderbergen, Inc.",White Tiger,601,Vanderbilt Ave,Brooklyn,11238,"601 Vanderbilt Ave, Brooklyn, NY",06/23/2020,40.67953,-73.968176,Prospect Heights
+306,4193,4229,both,Ichibantei,Ichibantei Pub Inc,Ichibantei Pub Inc,401,East 13th st,Manhattan,10009,"401  East 13th st, Manhattan, NY",06/23/2020,40.730523,-73.982732,East Village
+307,4203,4239,both,Dua Kafe,Dua Byrek Inc,Dua Byrek Inc,520,E 14th St,Manhattan,10009,"520  E 14th St, Manhattan, NY",06/23/2020,40.730072,-73.97950300000001,East Village
+308,4221,4257,both,Pops deli,2 plus 2 inc.,2 plus 2 inc.,47-31,Vernon Blvd,Queens,11101,"47-31 Vernon Blvd , Queens, NY",06/23/2020,40.744671999999994,-73.95344200000001,Hunters Point-Sunnyside-West Maspeth
+309,4224,4260,sidewalk,Tarachi,Tarachi NYC LLC,Tarachi NYC LLC,222,Greene Ave,Brooklyn,11238,"222 Greene Ave, Brooklyn, NY",06/23/2020,40.687145,-73.961988,Clinton Hill
+310,4225,4261,both,Sushi Dojo,Bonada LLC,Bonada LLC,110,1st Avenue,Manhattan,10009,"110 1st Avenue, Manhattan, NY",06/23/2020,40.726733,-73.985904,East Village
+311,4260,4296,both,Nowon,Nowon Inc,Nowon,507,E 6th st,Manhattan,10009,"507 E 6th st, Manhattan, NY",06/23/2020,40.725291,-73.98350500000001,East Village
+312,4288,4324,roadway,ATTABOY,ATTABOY COCKTAILS LLC,ATTABOY COCKTAILS LLC,134,ELDRIDGE ST,Manhattan,10009,"134 ELDRIDGE ST, Manhattan, NY",06/23/2020,40.718913,-73.991566,Chinatown
+313,4289,4325,both,The Good Batch,The Good Batch llc,The Good Batch,936,Fulton,Brooklyn,11238,"936  Fulton, Brooklyn, NY",06/23/2020,,,
+314,4296,4332,roadway,Stocked Burger,"The Sly Rose, LLC",Stocked Burger,663,Washington Ave,Brooklyn,11238,"663 Washington Ave, Brooklyn, NY",06/23/2020,40.677333000000004,-73.963663,Prospect Heights
+315,4297,4333,sidewalk,Blue Marble Ice Creamn,Blue Marble Underhill,Blue Marble Underhill,186,Underhill Avenue,Brooklyn,11238,"186 Underhill Avenue, Brooklyn, NY",06/23/2020,40.674957,-73.96675,Prospect Heights
+316,4314,4350,sidewalk,El Pollo Inka Peru,"El Pollo Inka Peru II, Inc.","El Pollo Inka Peru II, Inc.",112-20,Qieens Blvd. 1 Floor,Queens,11375,"112-20  Qieens Blvd. 1 Floor, Queens, NY",06/23/2020,,,
+317,4318,4354,both,Sake Bar Satsko,AW Creative Associates INC,Sake Bar Satsko,202,East 7th St,Manhattan,10009,"202 East 7th St, Manhattan, NY",06/23/2020,40.724687,-73.980316,Lower East Side
+318,4346,4382,sidewalk,Calaca of Bk,Calaca of Bk Inc,Calaca of Bk Inc,139,Putnam Ave,Brooklyn,11238,"139 Putnam Ave, Brooklyn, NY",06/23/2020,40.683289,-73.95656,Clinton Hill
+319,4353,4389,roadway,Cagen,Cagen Japanese LLC,Cagen Japanese LLC,414,East 9th Street,Manhattan,10009,"414 East 9th Street, Manhattan, NY",06/23/2020,40.727841,-73.98407399999999,East Village
+320,4457,4494,both,esquina tequila,Sterling 4001 LLC,Sterling 4001 LLC,4001,Northern blvd,Queens,11101,"4001 Northern blvd , Queens, NY",06/23/2020,40.752462,-73.924205,Astoria
+321,4404,4440,roadway,Kolkata Chai Co,Kolkata Chai Cafe 1 LLC,Kolkata Chai Cafe 1 LLC,199,"Kolkata Chai, 199 East 3rd St,",Manhattan,10009,"199 Kolkata Chai, 199 East 3rd St,, Manhattan, NY",06/23/2020,,,
+322,4458,4495,sidewalk,Rimtin Mediterranean restaurant,Rimtin Mediterranean Inc,Rimtin Mediterranean Inc,104-02,Metropolitan ave,Queens,11375,"104-02 Metropolitan ave, Queens, NY",06/23/2020,40.710144,-73.848903,Forest Hills
+323,4506,4543,both,Book Club,"Book Club Bar, LLC",Book Club,197,East 3rd Street,Manhattan,10009,"197 East 3rd Street, Manhattan, NY",06/23/2020,40.722928,-73.98354499999999,East Village
+324,4515,4552,sidewalk,R40 Argentinian Restaurant Corp,R40 Restaurant corp,R40,47-16,Vernon blvd,Queens,11101,"47-16  Vernon blvd, Queens, NY",06/23/2020,40.745003999999994,-73.953352,Hunters Point-Sunnyside-West Maspeth
+325,4520,4557,both,Bareburger,Austin 88 LLC,Bareburger,71-49/51,Austin Street,Queens,11375,"71-49/51  Austin Street, Queens, NY",06/23/2020,,,
+326,4553,4590,both,"Amorina, Cucina Rustica","Zen Pizza,Inc","Amorina, Cucina Rustica",624,Vanderbilt Ave,Brooklyn,11238,"624 Vanderbilt Ave, Brooklyn, NY",06/23/2020,40.677488000000004,-73.96893399999999,Prospect Heights
+327,4570,4607,both,Oxalis,Oxalis Food LLC,Oxalis,791,Washington Ave,Brooklyn,11238,"791 Washington Ave, Brooklyn, NY",06/23/2020,40.672959999999996,-73.962815,Prospect Heights
+328,4576,4613,both,El Coyote Restaurant,El Coyote Forest Hills Inc,El Coyote Restaurant,7009,Austin street,Queens,11375,"7009  Austin street, Queens, NY",06/23/2020,40.720828999999995,-73.846588,Forest Hills
+329,4588,4625,both,Nine Thai,Ma Ta Thai,Nine Thai,110-70,Queens Blvd Forest Hills,Queens,11375,"110-70  Queens Blvd Forest Hills , Queens, NY",06/23/2020,40.719144,-73.838803,Forest Hills
+330,4617,4654,sidewalk,Merit Deli & Restaurant,TNG Food Corp,Merit Deli & Restaurant,32-02,37th Avenue,Queens,11101,"32-02 37th Avenue, Queens, NY",06/23/2020,40.754473,-73.93018000000001,Queensbridge-Ravenswood-Long Island City
+331,4621,4658,roadway,Yuca Bar & Restaurant,Yuca Bar & Restaurant Inc,Yuca Bar & Restaurant Inc,111,Avenue A,Manhattan,10009,"111 Avenue A, Manhattan, NY",06/23/2020,40.72615,-73.983476,East Village
+332,4643,4680,sidewalk,The chef’s table,The chef’s Table llc,The chef’s Table llc,268,Beach 116th street,Queens,11694,"268  Beach 116th street , Queens, NY",06/23/2020,40.580736,-73.837722,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel
+333,4668,4706,both,Root & Bone,Root & Bone LLC,Root & Bone,200,E. 3rd Street,Manhattan,10009,"200 E. 3rd Street, Manhattan, NY",06/23/2020,40.722837,-73.983376,East Village
+334,4679,4717,sidewalk,The Sanchez Luncheonette,Sanchez Restaurant Corp,The Sanchez Luncheonette,38-01,Vernon Boulevard,Queens,11101,"38-01 Vernon Boulevard, Queens, NY",06/23/2020,40.759078,-73.944408,Queensbridge-Ravenswood-Long Island City
+335,4769,4807,both,Metro Taco,save8 LLC,Metro Taco,102-15,Metropolitan Ave,Queens,11375,"102-15 Metropolitan Ave, Queens, NY",06/24/2020,40.710440000000006,-73.850677,Forest Hills
+336,4781,4819,both,"Astoria Apple, LLC","Astoria Apple, LLC",Applebee's Neighborhood Grill & Bar,38-01,35th Ave,Queens,11101,"38-01 35th Ave, Queens, NY",06/24/2020,40.755459,-73.922783,Astoria
+337,4787,4825,sidewalk,Black Star Bakery&Cafe,LIC Latte LLC,Black Star Bakery&Cafe,43871,50th Ave,Queens,11101,"2-10 50th Ave, Queens, NY",06/24/2020,40.743485,-73.95809799999999,Hunters Point-Sunnyside-West Maspeth
+338,4797,4835,both,Four & Twenty Blackbirds,Four & Twenty Blackbirds,Four & Twenty Blackbirds,634,Dean St,Brooklyn,11238,"634 Dean St, Brooklyn, NY",06/24/2020,40.680453,-73.96925999999999,Prospect Heights
+339,4799,4837,roadway,AUSTIN HOUSE,DAFNON FOOD CORP,DAFNON FOOD CORP,72-04,AUSTIN STREET,Queens,11375,"72-04 AUSTIN STREET, Queens, NY",06/24/2020,40.719223,-73.842363,Forest Hills
+340,4859,4897,sidewalk,Boris & Horton,Boris and Horton East Village LLC,Boris & Horton,195,Avenue A,Manhattan,10009,"195 Avenue A, Manhattan, NY",06/24/2020,40.729186,-73.981263,East Village
+341,4862,4900,sidewalk,Sea Breeze Deli corp,sea breeze deli corp,sea breeze deli corp,325,city island ave,Bronx,10464,"325 city island ave, Bronx, NY",06/24/2020,40.847685999999996,-73.78666700000001,Pelham Bay-Country Club-City Island
+342,4865,4903,sidewalk,Mokyo,In Thursday Namu LLC,Mokyo,109,St Marks PL,Manhattan,10009,"109 St Marks PL, Manhattan, NY",06/24/2020,40.727325,-73.984634,East Village
+343,4871,4909,both,Thursday Kitchen,In Thursday Kitchen LLC,In Thursday Kitchen LLC,424,E 9th St,Manhattan,10009,"424 E 9th St , Manhattan, NY",06/24/2020,40.727671,-73.98366700000001,East Village
+344,4872,4910,sidewalk,Maiella,RBT Restaurant LLC,Maiella,4610,center blvd,Queens,11101,"4610  center blvd, Queens, NY",06/24/2020,40.747056,-73.95640300000001,Hunters Point-Sunnyside-West Maspeth
+345,4882,4920,both,The Original Ciro’s Pizza,"Ciro Enterprises, INC",The Original Ciro’s Pizza,171,Beach 116th street,Queens,11694,"171 Beach 116th street, Queens, NY",06/24/2020,40.579176000000004,-73.836848,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel
+346,4906,4944,both,Bobwhite Counter,Bobwhite Counter LLC,Bobwhite Counter,94,Avenue C,Manhattan,10009,"94 Avenue C, Manhattan, NY",06/24/2020,40.723726,-73.979108,Lower East Side
+347,4942,4980,both,Noreetuh Restaurant,Noreetuh Restaraunt LLC,Noreetuh,128,First Avenue,Manhattan,10009,"128 First Avenue, Manhattan, NY",06/24/2020,40.727371999999995,-73.985442,East Village
+348,4943,4981,both,48-17 V B Rest Corp,48-17 V B Rest Corp,Dominies Hoek,48-17,Vernon Blvd,Queens,11101,"48-17 Vernon Blvd, Queens, NY",06/24/2020,40.743928000000004,-73.953688,Hunters Point-Sunnyside-West Maspeth
+349,4964,5002,sidewalk,Fonda,Fonda Avenue B LLC,Fonda Avenue B LLC,40,Avenue B,Manhattan,10009,"40 Avenue B, Manhattan, NY",06/24/2020,40.722821,-73.982871,East Village
+350,4974,5012,sidewalk,Brooks 1890 Resturant,DiPalo Romano Corp,DiPalo Romano Corp,2428,Jackson Ave.,Queens,11101,"2428  Jackson Ave., Queens, NY",06/24/2020,40.7464,-73.944198,Hunters Point-Sunnyside-West Maspeth
+351,4995,5033,sidewalk,cherry tavern,cherry tavern inc.,cherry tavern inc.,441,east 6th st,Manhattan,10009,"441 east 6th st, Manhattan, NY",06/24/2020,40.726002,-73.985197,East Village
+352,5003,5041,sidewalk,Taverna Kyclades East Village,MACCG LLC,Taverna Kyclades East Village,228,1st avenue,Manhattan,10009,"228 1st avenue, Manhattan, NY",06/24/2020,40.731058000000004,-73.98276,East Village
+353,5023,5061,both,Memphis Seoul,Memphis Seoul,Memphis Seoul,569,Lincoln Place,Brooklyn,11238,"569 Lincoln Place, Brooklyn, NY",06/24/2020,40.671586,-73.95785500000001,Crown Heights North
+354,5029,5067,both,Norsang Cafe Inc,Norsang Cafe Inc.,Cafe Himalaya,78,East 1st,Manhattan,10009,"78 East 1st , Manhattan, NY",06/24/2020,,,
+355,5033,5071,sidewalk,Rangoon,Rangoon Restaurant Concepts LLC,Rangoon,500,Prospect Place,Brooklyn,11238,"500 Prospect Place, Brooklyn, NY",06/24/2020,40.675863,-73.96031500000001,Crown Heights North
+356,5075,5113,sidewalk,Ciro Pizzeria,J AND S FOOD CORP.,Ciro Pizzeria,113-19,Beach channel drive,Queens,11694,"113-19 Beach channel drive , Queens, NY",06/24/2020,40.582411,-73.836069,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel
+357,5099,5137,both,Fifth Hammer Brewing Co,DSCC Ventures IN,Fifth Hammer Brewing Company,1028 1036,46th Ave,Queens,11101,"1028 1036 46th Ave, Queens, NY",06/24/2020,,,
+358,5103,5141,both,Communitea,Communitea Inc,Communitea Inc,44153,46 Rd,Queens,11101,"11-18 46 Rd, Queens, NY",06/24/2020,40.745582,-73.949872,Hunters Point-Sunnyside-West Maspeth
+359,5119,5157,both,Bareburger LIC,4819 Vernon Kitchen LLC,Bareburger LIC,48-19,Vernon Boulevard,Queens,11101,"48-19 Vernon Boulevard, Queens, NY",06/24/2020,40.743916999999996,-73.953691,Hunters Point-Sunnyside-West Maspeth
+360,5211,5249,both,rosa coffee shop,rosa coffee shop,rosa coffee shop,3003,38th ave,Queens,11101,"3003 38th ave, Queens, NY",06/25/2020,40.754134,-73.93265600000001,Queensbridge-Ravenswood-Long Island City
+361,5215,5253,sidewalk,Cataldo’s restaurant,Cataldo54inc,Cataldo’s restaurant,554,Vanderbilt avenue,Brooklyn,11238,"554  Vanderbilt avenue, Brooklyn, NY",06/25/2020,40.680021,-73.968024,Prospect Heights
+362,5226,5264,both,Blue Marble Ice Cream,Blue Marble Underhill,Blue Marble Underhill,186,Underhill Avenue,Brooklyn,11238,"186 Underhill Avenue, Brooklyn, NY",06/25/2020,40.674957,-73.96675,Prospect Heights
+363,5243,5281,roadway,Gomi Korean Wine Bar,186 A Enterprises Inc.,Cork and Fork,186,Avenue A,Manhattan,10009,"186 Avenue A, Manhattan, NY",06/25/2020,40.728876,-73.981466,East Village
+364,5279,5317,both,BAGEL PUB,BAGEL PUB CROWN HEIGHTS CORP,BAGEL PUB CROWN HEIGHTS CORP,775,FRANKLIN AVE,Brooklyn,11238,"775 FRANKLIN AVE, Brooklyn, NY",06/25/2020,40.67228,-73.957375,Crown Heights North
+365,5284,5322,both,MISC,MISC,MISC,758,"758 Franklin Avenue, MISC Restaurant",Brooklyn,11238,"758 758 Franklin Avenue, MISC Restaurant, Brooklyn, NY",06/25/2020,,,
+366,5320,5358,sidewalk,McDonalds,"BDC RESTAURANTS, LLC","BDC RESTAURANTS, LLC",404 EAST,14TH STREET,Manhattan,10009,"404 EAST 14TH STREET, Manhattan, NY",06/25/2020,40.731225,-73.982259,East Village
+367,5321,5359,sidewalk,LIC Corner Cafe,L.I.C. Corner Cafe,LIC Corner Cafe,21-03,45th Road,Queens,11101,"21-03 45th Road, Queens, NY",06/25/2020,40.74661,-73.947486,Hunters Point-Sunnyside-West Maspeth
+368,5360,5399,sidewalk,The Freakin Rican Restaurant,The Freakin Rican Restaurant,The Freakin Rican Restaurant,43-06,34th Avenue,Queens,11101,"43-06 34th Avenue, Queens, NY",06/25/2020,40.755478000000004,-73.918322,Astoria
+369,5370,5409,both,The Mill Coffee House LIC,The Mill Coffee House LIC LLC,The Mill Coffee House LIC LLC,44-61,11th street,Queens,11101,"44-61 11th street, Queens, NY",06/25/2020,40.748206,-73.949701,Hunters Point-Sunnyside-West Maspeth
+370,5375,5414,sidewalk,Fausto Restaurant,Pasta People LLC,Fausto,348,Flatbush Ave,Brooklyn,11238,"348 Flatbush Ave, Brooklyn, NY",06/25/2020,40.676103000000005,-73.971689,Park Slope-Gowanus
+371,5380,5419,both,Lois,Lois Bar LLC,Lois Bar,98,Avenue C,Manhattan,10009,"98 Avenue C, Manhattan, NY",06/25/2020,40.72383,-73.97903199999999,Lower East Side
+372,5425,5465,sidewalk,MUSE THAI,Good Luck 689 Corp.,MUSE,689,Washington Ave,Brooklyn,11238,"689 Washington Ave, Brooklyn, NY",06/25/2020,40.676696,-73.963548,Prospect Heights
+373,5445,5485,both,Mekelburg's,"Hop, Stock & Barrel II LLC",Mekelburg's,319,Kent Avenue,Brooklyn,11238,"319 Kent Avenue, Brooklyn, NY",06/25/2020,40.713757,-73.9672,North Side-South Side
+374,5460,5500,both,Hartley's,Thirty Trees Corp.,Hartley's,14,Putnam Avenue,Brooklyn,11238,"14 Putnam Avenue, Brooklyn, NY",06/25/2020,40.682722999999996,-73.961327,Clinton Hill
+375,5468,5508,both,Hunan Slurp,QIYI LLC,Hunan Slurp,112,1st Avenue,Manhattan,10009,"112 1st Avenue , Manhattan, NY",06/25/2020,40.726782,-73.98586800000001,East Village
+376,5486,5526,sidewalk,Bilt Bar,JH Hospitality Inc.,JH Hospitality Inc.,583,Vanderbilt Avenue,Brooklyn,11238,"583  Vanderbilt Avenue, Brooklyn, NY",06/25/2020,40.680304,-73.967901,Prospect Heights
+377,5502,5542,roadway,Alta Calidad,Malabar Kitchen LLC,Alta Calidad,552,Vanderbilt Avenue,Brooklyn,11238,"552  Vanderbilt Avenue, Brooklyn, NY",06/25/2020,40.680076,-73.968006,Prospect Heights
+378,5509,5549,sidewalk,IL FORNO PIZZERIA,IL FORNO PIZZERIA CORP,IL FORNO PIZZERIA CORP,6382,AMBOY ROAD,Staten Island,10309,"6382 AMBOY ROAD, Staten Island, NY",06/25/2020,40.522108,-74.216829,Charleston-Richmond Valley-Tottenville
+379,5515,5555,both,MEXICOCINA AGAVERIA,BROOKLYN CARNITAS LLC,MEXICOCINA AGAVERIA,708,WASHINGTON AVE,Brooklyn,11238,"708  WASHINGTON AVE, Brooklyn, NY",06/25/2020,40.676842,-73.963595,Prospect Heights
+380,5521,5561,roadway,The Phoenix,Hughes Murray Walsh LLC,The Phoenix,447,East 13th Street,Manhattan,10009,"447 East 13th Street, Manhattan, NY",06/25/2020,40.730215,-73.982003,East Village
+381,5528,5568,both,The Mac Shack,Got It Covered Inc,The Mac Shack,901,Fulton street,Brooklyn,11238,"901  Fulton street, Brooklyn, NY",06/25/2020,40.683578000000004,-73.967272,Clinton Hill
+382,5531,5571,sidewalk,Beer Street South,Hops 550 LLC,Beer Street South,550,Vanderbilt Ave,Brooklyn,11238,"550 Vanderbilt Ave, Brooklyn, NY",06/25/2020,40.680309,-73.967923,Prospect Heights
+383,5553,5593,both,TATANKA TINCTURE BAR,KEIGHT O EIGHT LLC,TATANKA TEA AND TINCTURE BAR,557,CLASSON AVE,Brooklyn,11238,"557 CLASSON AVE, Brooklyn, NY",06/25/2020,40.681602000000005,-73.95854399999999,Clinton Hill
+384,5559,5599,both,Cornerstone Cafe,A.O. Cafe and Restaurant LLC,Cornerstone Cafe,17,Ave. B,Manhattan,10009,"17 Ave. B, Manhattan, NY",06/25/2020,40.722113,-73.983362,Lower East Side
+385,5612,5652,both,THE CABIN NYC,THE GREAT CABIN LLC,THE GREAT CABIN LLC,205,EAST 4TH ST,Manhattan,10009,"205 EAST 4TH ST, Manhattan, NY",06/26/2020,40.723908,-73.98397800000001,East Village
+386,5657,5697,sidewalk,Mace,1862 Hospitality LLC,Mace,505,East 12th Street,Manhattan,10009,"505 East 12th Street, Manhattan, NY",06/26/2020,40.728919,-73.980903,East Village
+387,5660,5700,both,HANE SUSHI,HANE SUSHI INC,HANE SUSHI,346,1ST AVENUE,Manhattan,10009,"346 1ST AVENUE, Manhattan, NY",06/26/2020,40.734897,-73.979822,Stuyvesant Town-Cooper Village
+388,5674,5714,both,Pardon My French,French Avenue B Inc.,French Avenue B Inc.,103,Avenue B,Manhattan,10009,"103 Avenue B, Manhattan, NY",06/26/2020,40.72483,-73.981377,Lower East Side
+389,5680,5720,both,Whitmans Restaurant,Avenue A Candy LLC,Whitmans,406,E 9th,Manhattan,10009,"406 E 9th, Manhattan, NY",06/26/2020,,,
+390,5693,5733,sidewalk,Olde Brooklyn Bagel,645 Bagels Corp,645 Bagels Corp,645,Vanderbilt ave,Brooklyn,11238,"645  Vanderbilt ave , Brooklyn, NY",06/26/2020,40.677795,-73.9688,Prospect Heights
+391,5695,5735,both,Olde Brooklyn Bagels Shoppe,645 Bagels Corp,645 Bagels Corp,645,Vanderbilt ave,Brooklyn,11238,"645 Vanderbilt ave , Brooklyn, NY",06/26/2020,40.677795,-73.9688,Prospect Heights
+392,5699,5739,both,sabor a mexico taqueria,jarlene corporation,jarlene corporation,160,1st avenue,Manhattan,10009,"160  1st avenue, Manhattan, NY",06/26/2020,40.728607000000004,-73.984536,East Village
+393,5701,5741,both,Tooker Alley,Hobohemia LLC,Hobohemia LLC,793,Washington Avenue,Brooklyn,11238,"793 Washington Avenue, Brooklyn, NY",06/26/2020,40.672897,-73.962804,Prospect Heights
+394,5704,5744,both,SPICE,KL 747 INC,SPICE,4745,Vernon Blvd,Queens,11101,"4745 Vernon Blvd, Queens, NY",06/26/2020,40.744576,-73.953475,Hunters Point-Sunnyside-West Maspeth
+395,5732,5772,roadway,Penny House Cafe,"Amir Cafe, Inc.","Amir Cafe, Inc.",732,Washington Avenue,Brooklyn,11238,"732 Washington Avenue, Brooklyn, NY",06/26/2020,40.676032,-73.963437,Prospect Heights
+396,5746,5786,roadway,Brooklyn's Homeslice Pizzeria,567 Vanderbilt Pizza Corp,Brooklyn's Homeslice Pizzeria,567,Vanderbilt Avenue,Brooklyn,11238,"567 Vanderbilt Avenue, Brooklyn, NY",06/26/2020,40.680781,-73.967732,Prospect Heights
+397,5749,5789,sidewalk,Zaytoons,594 Vanderbilt Ave Food Corp,Zaytoons,594,Vanderbilt Ave,Brooklyn,11238,"594 Vanderbilt Ave, Brooklyn, NY",06/26/2020,40.678734000000006,-73.968486,Prospect Heights
+398,5753,5793,roadway,Jamesons Pub,Magnet Tavern & Rest Inc,Magnet Tavern & Rest Inc,421,Beach 129th Street,Queens,11694,"421 Beach 129th Street, Queens, NY",06/26/2020,40.578367,-73.84939200000001,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel
+399,5789,5829,both,Mu Ramen,Mu Ramen,Mu Ramen,1209,Jackson ave,Queens,11101,"1209 Jackson ave, Queens, NY",06/26/2020,40.743658,-73.950505,Hunters Point-Sunnyside-West Maspeth
+400,5790,5830,sidewalk,Barcklays pizza &pasta llc,Barcklays pizza &pasta llc,Barcklays pizza &pasta llc,916,Fulton street,Brooklyn,11238,"916  Fulton street, Brooklyn, NY",06/26/2020,40.682938,-73.96433,Clinton Hill
+401,5793,5833,both,SoloPizza,Solo Pizza Inc.,Solo Pizza Inc.,27,Avenue B,Manhattan,10009,"27 Avenue B, Manhattan, NY",06/26/2020,40.722365,-73.983177,Lower East Side
+402,5816,5856,sidewalk,Golda,franklin hospitality group llc,franklin hospitality group llc,504,Franklin ave,Brooklyn,11238,"504 Franklin ave, Brooklyn, NY",06/26/2020,40.681453000000005,-73.955743,Clinton Hill
+403,5824,5864,both,Fusion lounge,3419 entertainment corp,Fusion bistro & cocktail lounge,3419,Steinway,Queens,11101,"3419 Steinway, Queens, NY",06/26/2020,,,
+404,5841,5881,roadway,Bua,Bua New York LLC,Bua New York LLC,122,St Marks Place,Manhattan,10009,"122 St Marks Place, Manhattan, NY",06/26/2020,40.727257,-73.984511,East Village
+405,5865,5905,both,The Cabinet,Lazerini Jazz LLC,The Cabinet,649,East 9th Street,Manhattan,10009,"649 East 9th Street, Manhattan, NY",06/26/2020,40.72573,-73.97900200000001,Lower East Side
+406,5887,5927,sidewalk,LIC MARKET,LIC MARKET AT 44TH DRIVE INC,LIC MARKET AT 44TH DRIVE INC,2152,44TH DRIVE,Queens,11101,"2152 44TH DRIVE, Queens, NY",06/26/2020,40.748020000000004,-73.946936,Hunters Point-Sunnyside-West Maspeth
+407,5904,5944,both,Singa’s pizza,MDNNT Corp,MDNNT Corp,6353,108 street,Queens,11375,"6353  108 street , Queens, NY",06/27/2020,40.733492,-73.849874,Forest Hills
+408,5908,5948,both,SoBol,"NPL Enterprises, LLC.",SoBol,212-67a,26th Ave,Queens,11360,"212-67a  26th Ave, Queens, NY",06/27/2020,40.778321999999996,-73.77713,Ft. Totten-Bay Terrace-Clearview
+409,5911,5951,roadway,Pico,Pico Restaurant,Pico Restaurant,419,Beach 129 street,Queens,11694,"419 Beach 129 street, Queens, NY",06/27/2020,40.578340000000004,-73.849377,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel
+410,5914,5954,both,Night Market,Yin Yang East Village Inc,Night Market,130,1st Ave,Manhattan,10009,"130 1st Ave, Manhattan, NY",06/27/2020,40.727435,-73.985395,East Village
+411,5916,5956,roadway,"East Meets West Superb Chinese Food, Inc.",East Meets West,East Meets West,419A,Beach 129th Street,Queens,11694,"419A Beach 129th Street, Queens, NY",06/27/2020,40.578340000000004,-73.849377,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel
+412,5928,5968,sidewalk,Milk Bar,"Casual Cafe Partners, LLC",Milk Bar,620,Vanderbilt Avenue,Brooklyn,11238,"620 Vanderbilt Avenue, Brooklyn, NY",06/27/2020,40.677797999999996,-73.968822,Prospect Heights
+413,5965,6005,sidewalk,DAY BREAK INC,DAY BREAK INC,DAY BREAK INC,4501,34TH AVE,Queens,11101,"4501 34TH AVE, Queens, NY",06/27/2020,40.754757,-73.91674499999999,Astoria
+414,5980,6020,sidewalk,Takumen,Takumen New York INC,Takumen New York INC,18384,50th Ave,Queens,11101,"5-50  50th Ave, Queens, NY",06/27/2020,40.7431,-73.95607,Hunters Point-Sunnyside-West Maspeth
+415,6009,6049,both,Singa’s pizza,MDNNT Corp,MDNNT Corp,6353,108 st,Queens,11375,"6353  108 st , Queens, NY",06/27/2020,40.733492,-73.849874,Forest Hills
+416,6010,6050,both,Suzuki Shokudo,Suzuki Shokudo Inc,Suzuki Shokudo Inc,38-01,31st Street,Queens,11101,"38-01 31st Street, Queens, NY",06/27/2020,40.75362,-73.932144,Queensbridge-Ravenswood-Long Island City
+417,6035,6075,sidewalk,Lecker Foods Hospitality Group LLC,Lecker Foods Hospitality Group LLC,Kotti Berliner Doner Kebab,445,Albee Square West,Brooklyn,11238,"445  Albee Square West, Brooklyn, NY",06/27/2020,40.690833000000005,-73.983452,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill
+418,6060,6100,both,LUANNE'S WILD GINGER,G & K WILDGINGER INDUSTRIES INC,LUANNE'S WILD GINGER,676,FRANKLIN AVE,Brooklyn,11238,"676 FRANKLIN AVE, Brooklyn, NY",06/27/2020,40.67536,-73.956284,Crown Heights North
+419,6087,6127,roadway,Cafe Mogador,Rivka In,Cafe Mogador,101,St Marks place,Manhattan,10009,"101 St Marks place, Manhattan, NY",06/28/2020,40.727371999999995,-73.984742,East Village
+420,6098,6138,both,768 Franklin Avenue LLC,768 Franklin Avenue LLC,Drink,768,Franklin Avenue,Brooklyn,11238,"768 Franklin Avenue, Brooklyn, NY",06/28/2020,40.672182,-73.957433,Crown Heights North
+421,6103,6143,both,Baker's Pizza,Baker's Pizza INC,Baker's pizza,201,Ave A,Manhattan,10009,"201 Ave A, Manhattan, NY",06/28/2020,40.729378000000004,-73.981123,East Village
+422,6118,6158,both,MOCA ASIAN BISTRO,KANG YUE USA CORP,MOCA ASIAN BISTRO,107-18,70TH RD,Queens,11375,"107-18  70TH RD, Queens, NY",06/28/2020,40.721327,-73.845403,Forest Hills
+423,6125,6165,both,Banh Mi zon,BMZEVLLC,Banh Mi Zon,443,east 6th st,Manhattan,10009,"443 east 6th st, Manhattan, NY",06/28/2020,40.725989,-73.985168,East Village
+424,6158,6198,both,MisFits Nutrition,"MisFits Nutrition, LLC","MisFits Nutrition, LLC",115-14,QUEENS BLVD,Queens,11375,"115-14 QUEENS BLVD, Queens, NY",06/28/2020,40.716312,-73.833803,Forest Hills
+425,6163,6203,roadway,The Wayland,"Eldridge Bistro, Inc","Eldridge Bistro, Inc",700,East 9th Street,Manhattan,10009,"700 East 9th Street, Manhattan, NY",06/28/2020,40.725224,-73.977848,Lower East Side
+426,6164,6204,both,The Wayland,"Eldridge Bistro, Inc",The Wayland,700,East 9th Street,Manhattan,10009,"700  East 9th Street, Manhattan, NY",06/28/2020,40.725224,-73.977848,Lower East Side
+427,6167,6207,sidewalk,Good Night Sonny,"Little Rebel, Inc",Good Night Sonny,134,1st Avenue,Manhattan,10009,"134 1st Avenue, Manhattan, NY",06/28/2020,40.727677,-73.985218,East Village
+428,6171,6211,roadway,Hayaty,A.H 103 Corp,Hayaty,103,Ave A,Manhattan,10009,"103  Ave A, Manhattan, NY",06/28/2020,40.725796,-73.983736,East Village
+429,6187,6227,both,Doha,Pa Chango,Doha,38-34,31st Street,Queens,11101,"38-34 31st Street, Queens, NY",06/29/2020,40.753362,-73.932379,Queensbridge-Ravenswood-Long Island City
+430,6188,6228,both,Little Chef Little Cafe,D & S Cafe INC,Little Chef Little Cafe,543,48th Ave,Queens,11101,"543 48th Ave, Queens, NY",06/29/2020,40.744445,-73.95562199999999,Hunters Point-Sunnyside-West Maspeth
+431,6208,6248,sidewalk,Keybar,GHD Inc.,Keybar,432,East 13th Street,Manhattan,10009,"432 East 13th Street, Manhattan, NY",06/29/2020,40.730295,-73.982237,East Village
+432,6236,6276,sidewalk,CAVALI,CAVALI NY INC,CAVALI,36-21,STEINWAY ST.,Queens,11101,"36-21  STEINWAY ST., Queens, NY",06/29/2020,40.753242,-73.92367,Astoria
+433,6278,6318,both,Caracas Arepa Bar,Caracas Restaurant LLC,Caracas Arepa Bar,91,E 7TH ST,Manhattan,10009,"91 E 7TH ST, Manhattan, NY",06/29/2020,40.726842,-73.98540200000001,East Village
+434,6280,6320,both,Maiden Lane,Yardbird LLC,Maiden Lane,162,Avenue B,Manhattan,10009,"162  Avenue B, Manhattan, NY",06/29/2020,40.727066,-73.979774,East Village
+435,6311,6351,both,M. Wells Steakhouse,M. Wells Crescent LLC,M. Wells,43-15,Crescent,Queens,11101,"43-15 Crescent, Queens, NY",06/29/2020,,,
+436,6315,6355,both,Rockaway Brewing Company,Rockaway Brewing Company LLC,Rockaway Brewing Company LLC,4601,5th st,Queens,11101,"4601 5th st, Queens, NY",06/29/2020,40.747225,-73.95506800000001,Hunters Point-Sunnyside-West Maspeth
+437,6323,6363,both,M. Wells Steakhouse,M. Wells Crescent LLC,M. Wells,43-15,Crescent Street,Queens,11101,"43-15 Crescent Street, Queens, NY",06/29/2020,40.748674,-73.942323,Hunters Point-Sunnyside-West Maspeth
+438,6391,6432,sidewalk,PIATTO LIC,PIATTO LLC,PIATTO,18264,50th Avenue,Queens,11101,"1-50  50th Avenue, Queens, NY",06/29/2020,40.743642,-73.958878,Hunters Point-Sunnyside-West Maspeth
+439,6393,6434,both,PIATTO LIC,PIATTO LLC,PIATTO LLC,18264,50TH AVE,Queens,11101,"1-50  50TH AVE, Queens, NY",06/29/2020,40.743642,-73.958878,Hunters Point-Sunnyside-West Maspeth
+440,6419,6460,sidewalk,compadres 77,compadres 77,compadres 77,115-18,queens blvd,Queens,11375,"115-18 queens blvd, Queens, NY",06/29/2020,40.716304,-73.83379599999999,Forest Hills
+441,6449,6483,sidewalk,Plum Tomatoes by La Sorrentina,420 B129 Corp,Plum Tomatoes by La Sorrentina,420,B129th street,Queens,11694,"420 B129th street, Queens, NY",06/30/2020,40.578373,-73.849374,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel
+442,6472,6514,both,Sunshine Co,780 Washington LLC,Sunshine Co,780,Wahington Ave,Brooklyn,11238,"780 Wahington Ave, Brooklyn, NY",06/30/2020,,,
+443,6484,6526,both,Taste Creme,Skyview AM Inc.,Taste Creme,13-11,Jackson Avenue,Queens,11101,"13-11 Jackson Avenue , Queens, NY",06/30/2020,40.744289,-73.949285,Hunters Point-Sunnyside-West Maspeth
+444,6491,6533,both,"I LOVE PANZEROTTI NY, LLC","I LOVE PANZEROTTI NY, LLC","I LOVE PANZEROTTI NY, LLC",130,St Marks Pl,Manhattan,10009,"130 St Marks Pl, Manhattan, NY",06/30/2020,40.727207,-73.98439599999999,East Village
+445,6493,6535,both,Gruppo Thin Crust Pizza,"Fatdog, Inc.",Gruppo Thin Crust Pizza,98,Avenue B,Manhattan,10009,"98 Avenue B, Manhattan, NY",06/30/2020,40.724701,-73.98149599999999,East Village
+446,6501,6543,both,B-side,Flam Able LLC,B-side,204,Ave B,Manhattan,10009,"204 Ave B, Manhattan, NY",06/30/2020,40.728406,-73.978796,East Village
+447,6523,6565,roadway,Cagen,Cagen Japanese LLC,Cagen Japanese LLC,412 East,9th street,Manhattan,10009,"412 East 9th street, Manhattan, NY",06/30/2020,40.727866,-73.98413599999999,East Village
+448,6533,6575,sidewalk,Mojo,"2k Cafe Ole, Inc.",Mojo,70-20,Austin Street,Queens,11375,"70-20 Austin Street, Queens, NY",06/30/2020,40.720696999999994,-73.846274,Forest Hills
+449,6537,6579,both,"2k Cafe Ole, Inc.","2k Cafe Ole, Inc.","2k Cafe Ole, Inc.",70-20,Austin Street,Queens,11375,"70-20 Austin Street, Queens, NY",06/30/2020,40.720696999999994,-73.846274,Forest Hills
+450,6543,6585,both,Shanes Brooklyn Restaurant,DeWill Restaurant Management Inc,Shanes Brooklyn Restaurant,794,Washington Avenue,Brooklyn,11238,"794 Washington Avenue , Brooklyn, NY",06/30/2020,40.674168,-73.963073,Prospect Heights
+451,6544,6586,both,Gnoccheria,Italian Essenza Corp,Gnoccheria,234,E. 4th Street,Manhattan,10009,"234 E. 4th Street, Manhattan, NY",06/30/2020,40.723394,-73.98281300000001,East Village
+452,6572,6614,sidewalk,Indie LIC,Indie LIC LLC,Indie LIC LLC,43-10,Crescent Street,Queens,11101,"43-10 Crescent Street, Queens, NY",06/30/2020,40.748707,-73.942316,Hunters Point-Sunnyside-West Maspeth
+453,6574,6616,roadway,Austin Public,LukaKila cafe inc,Austin Public,70-28,Austin Street,Queens,11375,"70-28 Austin Street, Queens, NY",06/30/2020,40.720619,-73.84606099999999,Forest Hills
+454,6595,6637,both,the crown inn,Franklin Beer And Grocery,Franklin Beer And Grocery,724,Franklin ave,Brooklyn,11238,"724 Franklin ave, Brooklyn, NY",06/30/2020,40.673761999999996,-73.956862,Crown Heights North
+455,6606,6648,both,Revision Lounge,219 Avenue B Music Lounge Inc,Revision Lounge,219,Avenue B,Manhattan,10009,"219 Avenue B, Manhattan, NY",06/30/2020,40.728949,-73.97837,Lower East Side
+456,6608,6650,sidewalk,B'KLYN BURRO,"B'KLYN BURRO, LLC","B'KLYN BURRO, LLC",922,FULTON STREET,Brooklyn,11238,"922  FULTON STREET, Brooklyn, NY",07/01/2020,40.682891,-73.964118,Clinton Hill
+457,6614,6656,both,The Roost,220 Associates Inc.,220 Associates Inc. ( The Roost ),222,Ave. B,Manhattan,10009,"222  Ave. B , Manhattan, NY",07/01/2020,40.729012,-73.978348,East Village
+458,6625,6667,sidewalk,Avoid The Day Bookstore & Cafe,Avoid The Day Bookstore LLC,Avoid The Day Bookstore LLC,9904A,Rockaway Beach Blvd,Queens,11694,"9904A Rockaway Beach Blvd, Queens, NY",07/01/2020,40.584164,-73.820483,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel
+459,6643,6685,both,Il Nocello Ristorante,Il Nocello Ristorante Italiano Inc.,Il Nocello Ristorante Italiano Inc.,14-27,150th Street,Bronx,11357,"14-27 150th Street, Bronx, NY",07/01/2020,,,
+460,6647,6689,both,Il Nocello Ristorante,Il Nocello Ristorante Italiano Inc.,Il Nocello Ristorante Italiano Inc.,14-27,150th Street,Queens,11357,"14-27 150th Street, Queens, NY",07/01/2020,40.788160999999995,-73.81354499999999,Whitestone
+461,6656,6698,both,Cafe Cortadito,Cafe Cortadito LLC,Cafe Cortadito LLC,210,3rd street,Manhattan,10009,"210  3rd street, Manhattan, NY",07/01/2020,,,
+462,6683,6725,both,David's Cafe,Team 110 Inc,Team 110 Inc,110,Saint Marks Pl,Manhattan,10009,"110  Saint Marks Pl, Manhattan, NY",07/01/2020,40.727328,-73.984684,East Village
+463,6724,6768,sidewalk,Udom Thai restaurant,My Phu inc,My Phu inc,661,Washington avenue,Brooklyn,11238,"661  Washington avenue, Brooklyn, NY",07/01/2020,40.677382,-73.963674,Prospect Heights
+464,6753,6797,sidewalk,WXYZ LOUNGE,HOTEL 2745 LLC,WXYZ BAR,27-45,JACKSON AVENUE,Queens,11101,"27-45  JACKSON AVENUE, Queens, NY",07/01/2020,40.748115999999996,-73.939628,Hunters Point-Sunnyside-West Maspeth
+465,6764,6808,both,PJ Leahys,Penny Leahys CORP,Pj Leahys,5002,Vernon boulevard,Queens,11101,"5002 Vernon boulevard , Queens, NY",07/01/2020,40.742619,-73.95415799999999,Hunters Point-Sunnyside-West Maspeth
+466,6781,6825,sidewalk,2010MomentoCorp,2010MomentoCorp,2010MomentoCorp,25-13,Queens plaza North,Queens,11101,"25-13  Queens plaza North, Queens, NY",07/01/2020,40.750808,-73.939882,Queensbridge-Ravenswood-Long Island City
+467,6797,6841,roadway,Physical GraffiTea,ilana Malka,Physical GraffiTea,96,Saint Marks Pl,Manhattan,10009,"96  Saint Marks Pl, Manhattan, NY",07/01/2020,40.727413,-73.984883,East Village
+468,6813,6857,sidewalk,Yin Traditional Hot Pot,Master Yin LIC LLC,Yin Traditional Hot Pot,23-10,Jackson Ave,Queens,11101,"23-10 Jackson Ave, Queens, NY",07/02/2020,40.745895000000004,-73.945433,Hunters Point-Sunnyside-West Maspeth
+469,6818,6862,sidewalk,Seattle Cafe,Seattle Bakeshop,Seattle Bakeshop,32-02,Queens Boulevard,Queens,11101,"32-02 Queens Boulevard, Queens, NY",07/02/2020,40.7447,-73.933398,Hunters Point-Sunnyside-West Maspeth
+470,6855,6899,sidewalk,Kotti Berliner Doner Kebab,Lecker Foods Hospitality Group LLC,Kotti Berliner Doner Kebab,445,Albee Square West,Brooklyn,11238,"445 Albee Square West, Brooklyn, NY",07/02/2020,40.690833000000005,-73.983452,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill
+471,6889,6933,sidewalk,Gena's Grill Inc,GenasGrill Inc,GenasGrill Inc,210,First Ave,Manhattan,10009,"210 First Ave, Manhattan, NY",07/02/2020,40.730402000000005,-73.98324000000001,East Village
+472,6924,6968,sidewalk,LAST STOP GOURMET SHOP,SURF SNACKS,SURF SNACKS,222,116th,Queens,11694,"222 116th, Queens, NY",07/02/2020,,,
+473,6955,6999,both,AHIMSA GARDEN,SMALL PLATES INC,AHIMSA GARDEN,265,East 10th Street,Manhattan,10009,"265  East 10th Street, Manhattan, NY",07/02/2020,40.728357,-73.983425,East Village
+474,6989,7033,sidewalk,Outback Steakhouse,"Outback Steakhouse of Florida, LLC",Outback Steakhouse,23 48,Bell Blvd,Queens,11360,"23 48  Bell Blvd, Queens, NY",07/02/2020,40.781674,-73.775999,Ft. Totten-Bay Terrace-Clearview
+475,6990,7034,sidewalk,Shogun,Naomi Hibachi Inc,Shogun,111-16,Queens Blvd,Queens,11375,"111-16  Queens Blvd, Queens, NY",07/02/2020,40.718387,-73.837142,Forest Hills
+476,6994,7038,both,The Summit Bar,Parallel Bar Inc.,The Summti Bar,133,Avenue C,Manhattan,10009,"133  Avenue C , Manhattan, NY",07/02/2020,40.724944,-73.978241,Lower East Side
+477,7024,7065,both,Mekelburg's,"Hop, Stock & Barrel II LLC",Mekelburg's,293,Grand Avenue,Brooklyn,11238,"293 Grand Avenue, Brooklyn, NY",07/03/2020,40.687494,-73.96261899999999,Clinton Hill
+478,7032,7076,sidewalk,Dr Smood,Dr Smood LLC,Dr Smood LLC,1151,Broadway,Manhattan,11101,"1151 Broadway, Manhattan, NY",07/03/2020,40.744195,-73.988946,Hudson Yards-Chelsea-Flatiron-Union Square
+479,7036,7082,sidewalk,Beanstalk cafe,Beanstalk cafe INC,Beanstalk cafe INC,13-33,Jackson Ave,Queens,11101,"13-33 Jackson Ave, Queens, NY",07/03/2020,40.744546,-73.94876500000001,Hunters Point-Sunnyside-West Maspeth
+480,7068,7120,both,Balade,Great Caterers LLC,Great Caterers LLC,208,First avenue,Manhattan,10009,"208  First avenue , Manhattan, NY",07/03/2020,40.730352,-73.983276,East Village
+481,7090,7143,both,Nadezhda,Braha Holding Inc.,Braha Holding Inc.,64-06,108th street,Queens,11375,"64-06 108th street, Queens, NY",07/03/2020,40.732734,-73.849508,Forest Hills
+482,7153,7206,both,Maya Taqueria,Dania Food 1 Corp,Maya Taqueria,637,Vanderbilt Avenue,Brooklyn,11238,"637 Vanderbilt Avenue , Brooklyn, NY",07/03/2020,40.678042,-73.968714,Prospect Heights
+483,7187,7240,openstreets,Hatfields,SBC Holdings,Hatfields,40-05,Bell Blvd,Queens,11360,"40-05  Bell Blvd, Queens, NY",07/04/2020,40.764151,-73.771253,Bayside-Bayside Hills
+484,7214,7267,both,Bangkok cuisine,BKK forest hills inc,Bangkok cuisine,107-18,70th road,Queens,11375,"107-18 70th road, Queens, NY",07/04/2020,40.721327,-73.845403,Forest Hills
+485,7215,7268,sidewalk,Tuk Tuk,Thai LIC Inc,Tuk Tuk,4906,Vernon Blvd,Queens,11101,"4906 Vernon Blvd, Queens, NY",07/04/2020,40.743286,-73.95392700000001,Hunters Point-Sunnyside-West Maspeth
+486,7216,7269,both,MeMe's Diner,MeMe's Diner,MeMe's Diner,657,Washington Ave,Brooklyn,11238,"657  Washington Ave, Brooklyn, NY",07/04/2020,40.677734,-73.963738,Prospect Heights
+487,7219,7272,both,Ke Lai Le,Ke Lai Le,Ke Lai Le,791A,Washington Ave,Brooklyn,11238,"791A  Washington Ave, Brooklyn, NY",07/04/2020,40.672959999999996,-73.962815,Prospect Heights
+488,7221,7274,sidewalk,No5nyc,"nova design lic, llc",no5nyc,35-43,37th street,Queens,11101,"35-43 37th street, Queens, NY",07/04/2020,40.755183,-73.924256,Astoria
+489,7240,7293,sidewalk,5c Cafe and Cultural Center,5c Cafe and Cultural Center,5c Cafe and Cultural Center,68,Avenue C,Manhattan,10009,"68 Avenue C, Manhattan, NY",07/05/2020,40.722818,-73.979772,Lower East Side
+490,7249,7302,sidewalk,The Stonebridge,Coffee 101 LLC,Coffee 101 LLC,14504,14th Avenue,Queens,11357,"14504 14th Avenue, Queens, NY",07/05/2020,40.786898,-73.82210699999999,Whitestone
+491,7263,7316,both,Miss Lily's 7A,Seven A Cafe Inc,Miss Lily's 7A,109,Avenue A,Manhattan,10009,"109 Avenue A, Manhattan, NY",07/05/2020,40.725969,-73.98361,East Village
+492,7288,7341,both,Maiella,RBT Restaurant LLC,Maiella,4610,center blvd,Queens,11101,"4610  center blvd, Queens, NY",07/05/2020,40.747056,-73.95640300000001,Hunters Point-Sunnyside-West Maspeth
+493,7293,7346,both,Ninety 5 South,jadons inc,Ninety 5 South,778,Franklin ave,Brooklyn,11238,"778  Franklin ave, Brooklyn, NY",07/05/2020,40.671926,-73.957527,Crown Heights North
+494,7328,7381,both,TOURNESOL RESTAURANT,caloune corp,TOURNESOL RESTAURANT,5012,VERNON BLVD,Queens,11101,"5012 VERNON BLVD, Queens, NY",07/06/2020,40.74257,-73.954176,Hunters Point-Sunnyside-West Maspeth
+495,7331,7384,both,New Grand Buffet,"Oriental Enterprise I, Inc",New Grand Buffet,3445,48th Street,Queens,11101,"3445 48th Street, Queens, NY",07/06/2020,40.752637,-73.914885,Hunters Point-Sunnyside-West Maspeth
+496,7346,7399,both,WOODBINES,4710 CAFE INC,WOODBINES,4710,VERNON BLVD,Queens,11101,"4710 VERNON BLVD, Queens, NY",07/06/2020,40.745149,-73.953301,Hunters Point-Sunnyside-West Maspeth
+497,7363,7416,both,Coffee Spot,Coffee Spot INC,Coffee Spot,679,Classon Avenue,Brooklyn,11238,"679 Classon Avenue, Brooklyn, NY",07/06/2020,40.677046000000004,-73.95927900000001,Crown Heights North
+498,7365,7418,sidewalk,Pizzeria Uno Chicago Bar & Grill,"NY Deep, LLC",Pizzeria Uno Chicago Bar & Grill,37-11,35th Avenue,Queens,11101,"37-11 35th Avenue, Queens, NY",07/06/2020,40.755802,-73.923519,Astoria
+499,7375,7428,sidewalk,Wafels & Dinges,DeGeest LLC,Wafels & Dinges,15,E 2nd Street,Manhattan,10009,"15 E 2nd Street, Manhattan, NY",07/06/2020,40.725341,-73.991352,East Village
+500,7377,7430,sidewalk,Wafels & Dinges,DeGeest LLC,Wafels & Dinges,15,Avenue B,Manhattan,10009,"15  Avenue B, Manhattan, NY",07/06/2020,40.721942999999996,-73.98348399999999,Lower East Side
+501,7399,7452,both,Branded Saloon,"Branded Cattle Saloon, Inc.",Branded Saloon,603,Vanderbilt Avenue,Brooklyn,11238,"603 Vanderbilt Avenue, Brooklyn, NY",07/06/2020,40.679286,-73.968262,Prospect Heights
+502,7411,7464,both,Spy C Cuisine Inc,Spy C Cuisine Inc,Spy C Cuisine,72-06,Austin Street,Queens,11357,"72-06 Austin Street, Queens, NY",07/06/2020,40.719198,-73.84230600000001,Forest Hills
+503,7413,7466,both,ST ENDS,St Ends LLC,St Ends LLC,667,Franklin Avenue,Brooklyn,11238,"667 Franklin Avenue, Brooklyn, NY",07/06/2020,40.67565,-73.956158,Crown Heights North
+504,7440,7493,sidewalk,Sushi Daizen,Sushi Daizen INC,Sushi Daizen INC,47-38,Vernon Blvd,Queens,11101,"47-38 Vernon Blvd , Queens, NY",07/06/2020,40.744601,-73.953489,Hunters Point-Sunnyside-West Maspeth
+505,7470,7523,both,Villa Brasil Corp,Villa Brasil Corp,Villa Brasil Corp,4316,34th Avenue,Queens,11101,"4316 34th Avenue, Queens, NY",07/07/2020,40.75545,-73.91826400000001,Astoria
+506,7544,7597,both,Blend,Cullen Partners LLC,Blend,47-04,Vernon Blvd,Queens,11101,"47-04 Vernon Blvd, Queens, NY",07/07/2020,40.745295,-73.953254,Hunters Point-Sunnyside-West Maspeth
+507,7547,7600,both,CHOCOLATTE FRANKLIN CORP,CHOCOLATE ESPRESSO BAR,CHOCOLATE ESPRESSO BAR,800,FRANKLIN AVENUE,Brooklyn,11238,"800  FRANKLIN AVENUE, Brooklyn, NY",07/07/2020,40.671037,-73.957848,Crown Heights North
+508,7563,7617,roadway,Dai Hachi Sushi,Dai Hachi Sushi Corp,Dai Hachi Sushi Corp,4618,Vernon Blvd,Queens,11101,"4618 Vernon Blvd, Queens, NY",07/07/2020,40.746338,-73.952907,Hunters Point-Sunnyside-West Maspeth
+509,7565,7619,both,Dai Hachi Sushi,Dai Hachi Sushi Corp,Dai Hachi Sushi Corp,4618,vernon blvd,Queens,11101,"4618  vernon blvd, Queens, NY",07/07/2020,40.746338,-73.952907,Hunters Point-Sunnyside-West Maspeth
+510,7596,7650,both,Dream Baby,162-4 Ave B Bar Inc,Dream Baby,162-4,Ave B,Manhattan,10009,"162-4  Ave B, Manhattan, NY",07/07/2020,40.727066,-73.979774,East Village
+511,7598,7652,both,2A,Swauto Ltd,2A,25,Ave A,Manhattan,10009,"25 Ave A, Manhattan, NY",07/07/2020,40.722909,-73.98583599999999,East Village
+512,7599,7653,both,John Brown Smokehouse,Harpers Ferry Hospitality LLC,John Brown Smokehouse,1943-10-01T00:00:00.000,44th Drive,Queens,11101,"10-43 44th Drive, Queens, NY",07/07/2020,40.748763000000004,-73.95072900000001,Hunters Point-Sunnyside-West Maspeth
+513,7602,7656,both,Niagara / Tompkins Square Bar,Tozzer Ltd,Niagara / Tompkins Square Bar/ Lovers,110-112,Ave A,Manhattan,10009,"110-112 Ave A, Manhattan, NY",07/07/2020,40.725881,-73.983649,East Village
+514,7616,7670,sidewalk,Wild Birds,Wild Birds LLC,Wild Birds LLC,951,Dean Street,Brooklyn,11238,"951 Dean Street, Brooklyn, NY",07/08/2020,40.678185,-73.958352,Crown Heights North
+515,7623,7677,sidewalk,Boilermaker,Golden C Hospitality LLC,Boilermaker,13,1st Ave,Manhattan,10009,"13 1st Ave, Manhattan, NY",07/08/2020,40.723321,-73.988401,East Village
+516,7624,7678,sidewalk,Murrays Cheese Bar,Murrays LIC LLC,Murrays Cheese Bar,28-30,Jackson Ave,Queens,11101,"28-30 Jackson Ave, Queens, NY",07/08/2020,40.748642,-73.938133,Hunters Point-Sunnyside-West Maspeth
+517,7698,7752,sidewalk,Banter,Old Vienna Cafe LLC,Banter,108-22,Queens Boulevard,Queens,11375,"108-22 Queens Boulevard, Queens, NY",07/08/2020,40.721123,-73.843261,Forest Hills
+518,7714,7768,roadway,Yuca Bar & Restaurant Inc.,Yuca Bar & Restaurant Inc,Yuca Bar & Restaurant Inc,111,Avenue A,Manhattan,10009,"111 Avenue A, Manhattan, NY",07/08/2020,40.72615,-73.983476,East Village
+519,7824,7878,both,St Dymphnas,St Dymphans LLC,St Dymphans,117,Avenue A,Manhattan,10009,"117 Avenue A, Manhattan, NY",07/09/2020,40.726312,-73.98336,East Village
+520,7832,7885,both,El Pollo Inka Peru,"El Pollo Inka Peru II, Inc.","El Pollo Inka Peru II, Inc.",112-20,Queens Blvd. 1 Floor,Queens,11375,"112-20 Queens Blvd. 1 Floor, Queens, NY",07/09/2020,40.7178,-73.836,Forest Hills
+521,7855,7909,both,Parkside Pub,Howem Entertainment Corp,Parkside Pub,24-14,149th Street,Queens,11357,"24-14 149th Street, Queens, NY",07/09/2020,40.776928000000005,-73.817588,Murray Hill
+522,7882,7936,both,Haile Ethiopian Cuisin,Haile Bistro Inc,Haile Bistro Inc,182,Avenue b,Manhattan,10009,"182   Avenue b, Manhattan, NY",07/09/2020,40.727717,-73.979298,East Village
+523,8003,8057,roadway,Dumpling Man,New Dumpling Man Inc.,Dumpling Man,100,Stain Marks Place,Manhattan,10009,"100  Stain Marks Place, Manhattan, NY",07/10/2020,,,
+524,8051,8106,both,Good Life BK,Good Life BK llc,Good Life BK llc,706,Washington Avenue,Brooklyn,11238,"706  Washington Avenue, Brooklyn, NY",07/11/2020,40.676891,-73.963605,Prospect Heights
+525,8053,8108,both,Good Life BK llc.,Good Life BK llc.,Good Life BK llc.,706,washington Avenue,Brooklyn,11238,"706 washington Avenue, Brooklyn, NY",07/11/2020,40.676891,-73.963605,Prospect Heights
+526,8062,8117,both,Gen,Gen Restaurant Inc,Gen Restaurant Inc,659,Washington Ave,Brooklyn,11238,"659 Washington Ave, Brooklyn, NY",07/11/2020,40.677673,-73.963728,Prospect Heights
+527,8064,8119,sidewalk,Mama Fina’s,Mama Fina’s NY Inc,Mama Fina’s,167,Avenue A,Manhattan,10009,"167 Avenue A, Manhattan, NY",07/11/2020,40.728151000000004,-73.98201800000001,East Village
+528,8067,8122,both,hupo,shuang inc,hupo,2020-10-07T00:00:00.000,50th Ave,Queens,11101,"10-07 50th Ave, Queens, NY",07/11/2020,40.742649,-73.95365600000001,Hunters Point-Sunnyside-West Maspeth
+529,8068,8123,both,Via Caramico,Caramico 33 Corp,Caramico 33 Corp,3300,Northern Blvd,Queens,11101,"3300 Northern Blvd, Queens, NY",07/12/2020,40.751985999999995,-73.931099,Hunters Point-Sunnyside-West Maspeth
+530,8102,8157,both,LITTLE MISS MUFFIN 'N' HER STUFFIN,LITTLE MISS MUFFIN 'N' HER STUFFIN CORP,LITTLE MISS MUFFIN 'N' HER STUFFIN CORP,768,WASHINGTON AVENUE,Brooklyn,11238,"768 WASHINGTON AVENUE, Brooklyn, NY",07/13/2020,40.674887,-73.96321,Prospect Heights
+531,8110,8165,sidewalk,Dee's,Deenora Corp,Deenora Corp,107-15,Metropolitan Ave,Queens,11375,"107-15  Metropolitan Ave, Queens, NY",07/13/2020,40.709629,-73.845611,Forest Hills
+532,8120,8175,roadway,moca asian bistro,kang yue usa corp,kang yue usa corp,107-18,70th rd,Queens,11375,"107-18 70th rd, Queens, NY",07/13/2020,40.721327,-73.845403,Forest Hills
+533,8126,8181,both,Van Da,Gosling Inc,Van Da,234,4th Street,Manhattan,10009,"234 4th Street , Manhattan, NY",07/13/2020,,,
+534,8171,8226,sidewalk,L.A Burrito III Inc.,L.A Burrito III Inc.,L.A Burrito III Inc.,43,Underhill Avenue,Brooklyn,11238,"43  Underhill Avenue, Brooklyn, NY",07/13/2020,40.679699,-73.965017,Prospect Heights
+535,8173,8228,sidewalk,Yuca Bar & Restaurant Inc.,Yuca Bar & Restaurant Inc.,Yuca Bar & Restaurant Inc.,111,Avenue A,Manhattan,10009,"111 Avenue A, Manhattan, NY",07/13/2020,40.72615,-73.983476,East Village
+536,8179,8234,sidewalk,coffee monster,2230 CAFE INC,2230 CAFE INC,22-30 154,2230 154th st coffee monster,Queens,11357,"22-30 154 2230 154th st coffee monster, Queens, NY",07/13/2020,,,
+537,8180,8235,both,BCakeNY,BCakeNY,BCakeNY,702,Washington Avenue,Brooklyn,11238,"702 Washington Avenue, Brooklyn, NY",07/13/2020,40.676987,-73.963623,Prospect Heights
+538,8196,8251,both,"TGI Fridays  NY, LLC",TGI Fridays,TGI Fridays,7000,Austin Street,Queens,11375,"7000 Austin Street, Queens, NY",07/13/2020,40.720892,-73.846811,Forest Hills
+539,8201,8256,both,chairman sun llc,chairman sun llc,the sun bistro,4730,vernon blvd,Queens,11101,"4730 vernon blvd, Queens, NY",07/13/2020,40.74465,-73.953471,Hunters Point-Sunnyside-West Maspeth
+540,8206,8261,both,Numero 28,MCRB Corp,MCRB Corp,10712,70 th road,Queens,11375,"10712 70 th road, Queens, NY",07/13/2020,,,
+541,8214,8269,both,MisFits Nutrition,"MisFits Nutrition, LLC","MisFits Nutrition, LLC",115-14,Queens blvd,Queens,11375,"115-14 Queens blvd, Queens, NY",07/13/2020,40.716312,-73.833803,Forest Hills
+542,8226,8281,roadway,Sushi Daizen,Sushi Daizen INC,Sushi Daizen INC,47-38,Vernon Blvd,Queens,11101,"47-38 Vernon Blvd , Queens, NY",07/13/2020,40.744601,-73.953489,Hunters Point-Sunnyside-West Maspeth
+543,8248,8303,both,Buka,Buka New York Corp,Buka New York Corp,946,Fulton Street,Brooklyn,11238,"946 Fulton Street, Brooklyn, NY",07/14/2020,40.682688,-73.96313,Clinton Hill
+544,8254,8309,both,Finn's Corner,Finnister LLC.,Finn's Corner,660,"Washington Ave, Storefront",Brooklyn,11238,"660 Washington Ave, Storefront, Brooklyn, NY",07/14/2020,40.678365,-73.963882,Prospect Heights
+545,8255,8310,both,Rue B,Rue B Corp,Rue B Corp,188,Avenue B,Manhattan,10009,"188 Avenue B, Manhattan, NY",07/14/2020,40.727865,-73.979189,East Village
+546,8257,8312,sidewalk,Daily Press,Bedford Corners Cafe LLC,Daily Press Bed-Stuy,505,Franklin Ave,Brooklyn,11238,"505 Franklin Ave, Brooklyn, NY",07/14/2020,40.68142,-73.955714,Clinton Hill
+547,8258,8313,both,The Bakery on Bergen,The Bakery on Bergen LLC.,The Bakery on Bergen LLC.,740,Bergen Street,Brooklyn,11238,"740 Bergen Street, Brooklyn, NY",07/14/2020,40.678576,-73.964235,Prospect Heights
+548,8260,8315,both,LSC,Latino Sports Club,Latino Sports Club,665,Franklin Avenue,Brooklyn,11238,"665  Franklin Avenue , Brooklyn, NY",07/14/2020,40.6757,-73.95614,Crown Heights North
+549,8377,8432,sidewalk,Fresco Deli Cafe,GVVK Corp.,GVVK Corp.,33-06,Queens Boulevard,Queens,11101,"33-06  Queens Boulevard, Queens, NY",07/15/2020,40.744642,-73.931507,Hunters Point-Sunnyside-West Maspeth
+550,8390,8445,both,Sharlene's,"GFD 353, LLC",Sharlene's,353,Flatbush Avenue,Brooklyn,11238,"353 Flatbush Avenue, Brooklyn, NY",07/15/2020,40.676924,-73.972262,Prospect Heights
+551,8391,8446,both,Sharlene's,GFD 353 LLC,Sharlene's,353,Flatbush Avenue,Brooklyn,11238,"353 Flatbush Avenue, Brooklyn, NY",07/15/2020,40.676924,-73.972262,Prospect Heights
+552,8401,8456,roadway,Cafe Social 68,ALR90 HOLDINGS INC.,Cafe Social 68,68,Avenue A,Manhattan,10009,"68 Avenue A, Manhattan, NY",07/15/2020,40.724649,-73.984548,East Village
+553,8421,8477,sidewalk,Mayfield,North Side LLC,Mayfield,688,Franklin avenue,Brooklyn,11238,"688 Franklin avenue , Brooklyn, NY",07/15/2020,40.674873999999996,-73.956461,Crown Heights North
+554,8431,8487,openstreets,Eastpoint,25 B Group Rest Ave LLC,25 B Group Rest Ave LLC,25,Avenue B,Manhattan,10009,"25 Avenue B, Manhattan, NY",07/15/2020,40.722316,-73.983214,Lower East Side
+555,8434,8490,openstreets,2020-06-02T00:00:00.000,Tasty Taiwan LLC,2020-06-02T00:00:00.000,26,Saint Marks Place,Manhattan,11101,"26 Saint Marks Place, Manhattan, NY",07/15/2020,40.728929,-73.988472,East Village
+556,8437,8493,openstreets,Poco,Becafe LLC,Becafe LLC,33,Ave B,Manhattan,10009,"33  Ave B , Manhattan, NY",07/15/2020,40.722519,-73.98306600000001,Lower East Side
+557,8446,8502,openstreets,Yuca Bar & Restaurant Inc.,Yuca Bar & Restaurant Inc.,Yuca Bar & Restaurant Inc.,111,Avenue A,Manhattan,10009,"111 Avenue A, Manhattan, NY",07/15/2020,40.72615,-73.983476,East Village
+558,8471,8527,both,Solo pizza inc.,Solo pizza inc.,Solo pizza inc.,27,Avenue B,Manhattan,10009,"27 Avenue B, Manhattan, NY",07/15/2020,40.722365,-73.983177,Lower East Side
+559,8473,8529,openstreets,Solo pizza,Solo pizza inc.,Solo pizza inc.,27,Avenue B,Manhattan,10009,"27 Avenue B, Manhattan, NY",07/15/2020,40.722365,-73.983177,Lower East Side
+560,8475,8531,both,Dorsett bk,Dorsett inc,Dorsett inc,675-677,Washington Avenue,Brooklyn,11238,"675-677 Washington Avenue , Brooklyn, NY",07/15/2020,40.677039,-73.96360899999999,Prospect Heights
+561,8483,8539,openstreets,The Hairy Lemon,Galmac LLC,The Hairy Lemon,28/30,Avenue B,Manhattan,10009,"28/30 Avenue B, Manhattan, NY",07/16/2020,,,
+562,8484,8540,openstreets,The Hairy Lemon,Galmac LLC,The Hairy Lemon,28/30,Avenue B,Manhattan,10009,"28/30 Avenue B, Manhattan, NY",07/16/2020,,,
+563,8485,8541,openstreets,The Hairy Lemon,Galmac LLC,The Hairy Lemon,28-30,Avenue B,Manhattan,10009,"28-30 Avenue B, Manhattan, NY",07/16/2020,40.722373,-73.98319599999999,East Village
+564,8499,8555,both,Blanches Tavern,Blanches Tavern,Blanches Tavern,135,Avenue A,Manhattan,10009,"135 Avenue A, Manhattan, NY",07/16/2020,40.726938,-73.982906,East Village
+565,8506,8562,both,POKE TIKY BAR-CAFFEE CORP,POKE TIKY BAR-CAFFEE CORP,POKE TIKY BAR-CAFFEE CORP,564,VANDERBILT AVE,Brooklyn,11238,"564 VANDERBILT AVE, Brooklyn, NY",07/16/2020,40.679752,-73.968121,Prospect Heights
+566,8519,8575,both,5 Five Star Indian Cuisine,1315 Food Corp,Oaxaca Hells Kitchen,1315,43rd Avenue,Queens,11101,"1315 43rd Avenue, Queens, NY",07/16/2020,40.750993,-73.946331,Hunters Point-Sunnyside-West Maspeth
+567,8528,8584,both,AV LIC INC,5,5 STAR BANQUET,1305,43rd Avenue,Queens,11101,"1305 43rd Avenue, Queens, NY",07/16/2020,40.750995,-73.946331,Hunters Point-Sunnyside-West Maspeth
+568,8530,8586,both,5 Star Banquet,AV LIC Inc,Oaxaca Hells Kitchen,1305,43rd Avenue,Queens,11101,"1305  43rd Avenue, Queens, NY",07/16/2020,40.750995,-73.946331,Hunters Point-Sunnyside-West Maspeth
+569,8566,8622,openstreets,5 Burro Cafe,marla's food corp,5 burro cafe,7205,Austin street,Queens,11375,"7205 Austin street, Queens, NY",07/16/2020,40.719248,-73.84236999999999,Forest Hills
+570,8575,8631,openstreets,The Tap House,Eire Corp,The Tap House,72-07,Austin street,Queens,11375,"72-07 Austin street , Queens, NY",07/16/2020,40.719228,-73.842327,Forest Hills
+571,8589,8645,both,Club Cumming,Corsica Entertainment Inc.,Club Cumming,505,East 6th street,Manhattan,10009,"505 East 6th street, Manhattan, NY",07/16/2020,40.725305,-73.983538,East Village
+572,8597,8653,sidewalk,Board and brush staten island,Avaco Inc.,Board and Brush Staten Island,2965,veterans road west,Staten Island,10309,"2965  veterans road west , Staten Island, NY",07/16/2020,40.52785,-74.233373,Charleston-Richmond Valley-Tottenville
+573,8598,8654,openstreets,ROVE BAR & RESTAURANT,BURKLEE LLC,ROVE,7227,Austin,Queens,11375,"7227 Austin, Queens, NY",07/16/2020,,,
+574,8602,8658,openstreets,5 Burro Cafe,Marla’s Food Corp,5 Burro Cafe,7203,Austin Street,Queens,11375,"7203 Austin Street, Queens, NY",07/16/2020,40.719266999999995,-73.842417,Forest Hills
+575,8628,8684,both,Lamia's Fish Market,East Coast Fish Market INC,Lamia's Fish Market,45,Avenue B,Manhattan,10009,"45 Avenue B, Manhattan, NY",07/16/2020,40.722972,-73.982734,Lower East Side
+576,8644,8700,roadway,Aita Trattoria,Regine Restaurants LLC,Aita Trattoria,798-A,Franklin ave,Brooklyn,11238,"798-A  Franklin ave, Brooklyn, NY",07/16/2020,,,
+577,8645,8701,both,Aita Trattoria,Regine Restaurants LLC,Aita Trattoria,798-A,Franklin Ave,Brooklyn,11238,"798-A Franklin Ave , Brooklyn, NY",07/16/2020,,,
+578,8646,8702,openstreets,Narita Japanese restaurant,Narita Japanese restaurant,Narita Japanese restaurant,10708,70th Rd,Queens,11375,"10708  70th Rd, Queens, NY",07/17/2020,40.720989,-73.845613,Forest Hills
+579,8702,8758,both,Lowerline,NOLA Restaurant Group LLC,Lowerline,794,Washington Avenue,Brooklyn,11238,"794 Washington Avenue, Brooklyn, NY",07/17/2020,40.674168,-73.963073,Prospect Heights
+580,8736,8792,both,Takahachi East Village,KTM 7 Inc.,Takahachi East Village,85,Avenue A,Manhattan,10009,"85 Avenue A, Manhattan, NY",07/17/2020,40.725173,-73.98419100000001,East Village
+581,8749,8806,both,Amor y Amargo,Cien Fuegos LLC,Amor y Amargo,95,Avenue A,Manhattan,10009,"95 Avenue A, Manhattan, NY",07/17/2020,40.725563,-73.98390500000001,East Village
+582,8750,8807,openstreets,Miss Lilys 7A,7A cafe inc,Miss Lily's 7a,109,Avenue A,Manhattan,10009,"109  Avenue A , Manhattan, NY",07/17/2020,40.725969,-73.98361,East Village
+583,8764,8821,sidewalk,Chic-hen,BLK Hospitality Group,Chic-hen,1,Greene Ave,Brooklyn,11238,"1 Greene Ave, Brooklyn, NY",07/17/2020,40.685789,-73.973058,Fort Greene
+584,8765,8822,roadway,Jell and Chill,Jell and Chill LLC,Jell and Chill LLC,110,E 7th Street,Manhattan,10009,"110 E 7th Street, Manhattan, NY",07/17/2020,40.726507,-73.984641,East Village
+585,8768,8825,openstreets,128 Mac Corp,128 Mac Corp DBA Pylos Restaurant,Pylos Restaurant,128,E 7th street,Manhattan,10009,"128 E 7th street, Manhattan, NY",07/17/2020,40.726216,-73.98394499999999,East Village
+586,8789,8846,openstreets,Giano Restaurant,Giano Inc,Giano Inc,126 E,east 7th street,Manhattan,10009,"126 E east 7th street, Manhattan, NY",07/18/2020,40.726248999999996,-73.984024,East Village
+587,8791,8848,sidewalk,Palermo Pizzeria and Restaurant LLC,Palermo Pizzeria and Restaurant LLC,Palermo Pizzeria and Restaurant LLC,95,Page Avenue,Staten Island,10309,"95 Page Avenue, Staten Island, NY",07/18/2020,40.522028000000006,-74.234993,Charleston-Richmond Valley-Tottenville
+588,8807,8864,openstreets,Papilles,Papilles LLC,Papilles,127,E 7th street,Manhattan,10009,"127 E 7th street , Manhattan, NY",07/18/2020,40.726359,-73.98424399999999,East Village
+589,8821,8878,both,718 Hookah & Lounge Inc,718 Hookah & Lounge Inc,718 Hookah & Lounge Inc,72-13,Austin Street,Queens,11375,"72-13 Austin Street, Queens, NY",07/18/2020,40.719167999999996,-73.84219,Forest Hills
+590,8909,8966,both,CAFE HENRI,ONE KID CORP,CAFE HENRI,2020-10-10T00:00:00.000,50th Avenue,Queens,11101,"10-10 50th Avenue , Queens, NY",07/20/2020,,,
+591,8920,8977,sidewalk,Caffe Bene,Dream1Team Cafe LLC,Caffe Bene,208,Avenue A,Manhattan,10009,"208 Avenue A, Manhattan, NY",07/20/2020,40.729625,-73.980917,East Village
+592,8935,8991,both,Crostino Pizza &Pasta,Mediterranean Food Lab LLC,Crostino,3423,Steinway St,Queens,11101,"3423 Steinway St , Queens, NY",07/20/2020,40.756202,-73.92124100000001,Astoria
+593,8977,9033,roadway,Tacos Cuautla Morelos,Tacos Cuautla Morelos,Tacos Cuautla Morelos,438 E 9st,438 E 9st,Manhattan,10009,"438 E 9st 438 E 9st, Manhattan, NY",07/21/2020,40.72755,-73.983375,East Village
+594,8978,9034,roadway,Tacos Cuautla Morelos,Tacos Cuautla Morelos,Tacos Cuautla Morelos,438 E 9st,438 E 9st,Manhattan,10009,"438 E 9st 438 E 9st, Manhattan, NY",07/21/2020,40.72755,-73.983375,East Village
+595,8994,9050,roadway,Hearth Restaurant,"Hearth Restaurant Investors, LLC",Hearth Restaurant,200,1ST Avenue,Manhattan,10009,"200  1ST Avenue, Manhattan, NY",07/21/2020,40.730149,-73.98342099999999,East Village
+596,8997,9053,both,Hearth Restaurant,"HEARTH RESTAURANT INVESTORS, LLC",HEARTH RESTAURANT,200,1ST AVENUE,Manhattan,10009,"200 1ST AVENUE, Manhattan, NY",07/21/2020,40.730149,-73.98342099999999,East Village
+597,9039,9094,both,SHINN EAST,BAR BY UME LLC,SHINN EAST,119,E 7TH ST,Manhattan,10009,"119 E 7TH ST, Manhattan, NY",07/21/2020,40.726469,-73.984501,East Village
+598,9063,9119,openstreets,Antiochia grill,Antiochia grill,Oba grill,70-35,Austin street,Queens,11375,"70-35 Austin street, Queens, NY",07/22/2020,40.720498,-73.845679,Forest Hills
+599,9075,9131,sidewalk,THOMPSON DINER,COSCAR INC,COSCAR INC,32-44,Queens Blvd,Staten Island,11101,"32-44 Queens Blvd, Staten Island, NY",07/22/2020,,,
+600,9079,9135,sidewalk,THOMPSON DINER,COSCAR INC,COSCAR INC,32-44,QUEENS BLVD,Queens,11101,"32-44 QUEENS BLVD, Queens, NY",07/22/2020,40.744738,-73.932323,Hunters Point-Sunnyside-West Maspeth
+601,9088,9144,both,The Phoenix,Hughes Murray Walsh,The Phoenix,447,East 13th,Manhattan,10009,"447 East 13th, Manhattan, NY",07/22/2020,,,
+602,9108,9164,both,718 bat&grill,718 hookah lounge inc,1901-12-18T00:00:00.000,72-13,Austin street,Queens,11375,"72-13 Austin street, Queens, NY",07/22/2020,40.719167999999996,-73.84219,Forest Hills
+603,9119,9175,both,2nd lhasa fast food inc,the corporation,the corporation,177,1st avenue,Manhattan,10009,"177 1st avenue, Manhattan, NY",07/22/2020,40.729285,-73.98407399999999,East Village
+604,9164,9220,both,Auriga Cafe,El Camion 111,Auriga Cafe,198,Ave A,Manhattan,10009,"198  Ave A, Manhattan, NY",07/23/2020,40.729345,-73.981123,East Village
+605,9165,9221,both,Beron Beron,mononoke inc.,mononoke inc.,164,1st avenue,Manhattan,10009,"164 1st avenue, Manhattan, NY",07/23/2020,40.728854,-73.984356,East Village
+606,9166,9222,both,Cyclo,NGMC Restaurant Incorporated,Cyclo,551,47th Ave.,Queens,11101,"551 47th Ave., Queens, NY",07/23/2020,40.745883,-73.955137,Hunters Point-Sunnyside-West Maspeth
+607,9177,9233,sidewalk,PETEY'S BURGER,PETEYS LIC LLC,PETEY'S BURGER,4646,Vernon Blvd,Queens,11101,"4646 Vernon Blvd, Queens, NY",07/23/2020,40.745932,-73.95304,Hunters Point-Sunnyside-West Maspeth
+608,9182,9238,both,El Rey Latino,R C & E RESTAURANT,R C & E RESTAURANT,6342,108th street,Queens,11375,"6342 108th street , Queens, NY",07/23/2020,40.733931,-73.850126,Forest Hills
+609,9185,9241,both,Lavagna,Desmo 916 corp,Lavagna,545,"E. 5th Street, store front",Manhattan,10009,"545  E. 5th Street, store front, Manhattan, NY",07/23/2020,40.724416,-73.98332099999999,East Village
+610,9213,9269,sidewalk,Steinway cafe billiards,Olympian summit inc,Steinway billiards & cafe,35-25,Steinway street,Queens,11101,"35-25 Steinway street , Queens, NY",07/24/2020,40.754638,-73.922513,Astoria
+611,9231,9287,both,JACKSONS,Andreas Food Corp,Jacksons Eatery,1037,Jackson Avenue,Queens,11101,"1037 Jackson Avenue, Queens, NY",07/24/2020,40.742309000000006,-73.95310400000001,Hunters Point-Sunnyside-West Maspeth
+612,9278,9335,both,Yumpling,Yumpling LIC Queens LLC,Yumpling,4911,Vernon Blvd,Queens,11101,"4911 Vernon Blvd, Queens, NY",07/25/2020,40.743264,-73.953912,Hunters Point-Sunnyside-West Maspeth
+613,9326,9383,sidewalk,Mario's Diner Inc,Mario's Diner Inc,Mario's Diner Inc,4911,Northern Blvd.,Queens,11101,"4911  Northern Blvd., Queens, NY",07/27/2020,40.753440000000005,-73.913325,Astoria
+614,9339,9396,both,CAVALI,CAVALI NY INC,CAVALI,36-21,STEINWAY ST.,Queens,11101,"36-21 STEINWAY ST., Queens, NY",07/27/2020,40.753242,-73.92367,Astoria
+615,9352,9409,sidewalk,The Black Whale,"Kaliope Catering LLC,  DBA The Black Whale","Kaliope Catering LLC,  DBA The Black Whale",279,City Island Avenue,Bronx,10464,"279  City Island Avenue, Bronx, NY",07/27/2020,40.846373,-73.786176,Pelham Bay-Country Club-City Island
+616,9353,9410,both,Washington Commons,Washington Tavern LLC,Washington Commons,434,Park Place,Brooklyn,11238,"434 Park Place, Brooklyn, NY",07/27/2020,40.675675,-73.963916,Prospect Heights
+617,9356,9413,both,RIVIERA RISTORANTE,17-12 RIVIERA RESTAURANT CORP,RIVIERA RISTORANTE,1712,UTOPIA PKWY,Queens,11357,"1712 UTOPIA PKWY, Queens, NY",07/27/2020,40.781944,-73.794327,Ft. Totten-Bay Terrace-Clearview
+618,9366,9423,sidewalk,Minca,Ramen Factory Inc,Minca,536,East 5th Street,Manhattan,10009,"536 East 5th Street, Manhattan, NY",07/27/2020,40.724457,-73.983462,East Village
+619,9391,9448,both,Gallaghers 2000,Gallaghers 2000,Gallaghers 2000,4319,37 street,Queens,11101,"4319  37 street , Queens, NY",07/28/2020,40.745534,-73.92770300000001,Hunters Point-Sunnyside-West Maspeth
+620,9402,9459,sidewalk,SEA SHORE RESTAUANT,SEA SHORE RESTAURANT CORP.,SEA SHORE RESTAUANT,581 593,CITY ISLAND AVENUE,Bronx,10464,"581 593  CITY ISLAND AVENUE , Bronx, NY",07/28/2020,,,
+621,9407,9464,both,Star of Siam Thai Kitchen,Chaimongkol Inc,Star of Siam Thai Kitchen,10318,Metropolitan Ave,Queens,11375,"10318 Metropolitan Ave, Queens, NY",07/28/2020,40.710274,-73.849721,Forest Hills
+622,9423,9480,roadway,Rangoon,Rangoon Restaurant Concepts LLC,Rangoon,500,Prospect Place,Brooklyn,11238,"500 Prospect Place, Brooklyn, NY",07/28/2020,40.675863,-73.96031500000001,Crown Heights North
+623,9424,9481,both,Wild Birds,Wild Birds LLC,Wild Birds,951,Dean Street,Brooklyn,11238,"951  Dean Street , Brooklyn, NY",07/28/2020,40.678185,-73.958352,Crown Heights North
+624,9479,9536,both,Konditori,PIrk Washington LLC,PIrk Washington LLC,696,Washington Ave,Brooklyn,11238,"696 Washington Ave, Brooklyn, NY",07/30/2020,40.677135,-73.963649,Prospect Heights
+625,9520,9577,openstreets,KC GOURMET EMPANADAS,KC GOURMET EMPANADAS llc,KC GOURMET EMPANADAS llc,38,AVE B,Manhattan,10009,"38 AVE B, Manhattan, NY",07/30/2020,40.722769,-73.982907,East Village
+626,9521,9578,both,The Grafton,1465 CDM Incorporated,The Grafton,126,1st Avenue,Manhattan,10009,"126 1st Avenue, Manhattan, NY",07/30/2020,40.727312,-73.985485,East Village
+627,9534,9591,openstreets,Fonda,Fonda Avenue B LLC,Fonda,40,Avenue B,Manhattan,10009,"40 Avenue B, Manhattan, NY",07/30/2020,40.722821,-73.982871,East Village
+628,9536,9593,sidewalk,RiO Kitchen & Wine,Cafe Forte Inc,RiO,619,Saint Johns Place,Brooklyn,11238,"619 Saint Johns Place, Brooklyn, NY",07/30/2020,40.672514,-73.957768,Crown Heights North
+629,9557,9613,openstreets,POST,Stackleather LLC,POST,42,Avenue B,Manhattan,10009,"42  Avenue B , Manhattan, NY",07/31/2020,40.722873,-73.982831,East Village
+630,9559,9615,sidewalk,McDonald's,Goodmanallfood LLC - Sunnyside,McDonald's,3802,Queens Blvd,Queens,11101,"3802 Queens Blvd, Queens, NY",07/31/2020,40.744106,-73.926903,Hunters Point-Sunnyside-West Maspeth
+631,9570,9626,roadway,Plum Tomatoes by La Sorrentina,420 B129 Corp,420 B129 Corp,420,B129th Street,Queens,11694,"420 B129th Street, Queens, NY",07/31/2020,40.578373,-73.849374,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel
+632,9584,9641,roadway,Chilo's,Three and a Half Men LLC,Chilo's,323,Franklin Avenue,Brooklyn,11238,"323 Franklin Avenue, Brooklyn, NY",07/31/2020,40.688354,-73.957098,Bedford
+633,9586,9643,roadway,Minca,Ramen Factory Inc,Minca,536,East 5th Street,Manhattan,10009,"536 East 5th Street, Manhattan, NY",07/31/2020,40.724457,-73.983462,East Village
+634,9602,9659,both,Ace Bar,Thunderbolt Corp.,Ace Bar,531,East 5th Street,Manhattan,10009,"531 East 5th Street, Manhattan, NY",07/31/2020,40.724512,-73.983552,East Village
+635,9618,9675,sidewalk,Boulton & Wattt,Downtown Dining LLC,Boulton & Watt,5,Avenue A,Manhattan,10009,"5 Avenue A, Manhattan, NY",08/01/2020,40.722506,-73.986129,East Village
+636,9658,9822,both,MAGNA GRECIA,OTG 150ST CORP,OTG 150ST CORP,14-09,150,Queens,11357,"14-09 150, Queens, NY",08/05/2020,,,
+637,9696,9752,sidewalk,Sweetleaf Coffee,Sweetleaf L.I.C. III,Sweetleaf Coffee,1028,Jackson Avenue,Queens,11101,"1028 Jackson Avenue, Queens, NY",08/03/2020,40.742036999999996,-73.953588,Hunters Point-Sunnyside-West Maspeth
+638,9711,9767,openstreets,Nourish Thai,Heng Heng Group INC,Nourish Thai,637A,Vanderbilt Avenue,Brooklyn,11238,"637A  Vanderbilt Avenue, Brooklyn, NY",08/03/2020,40.678042,-73.968714,Prospect Heights
+639,9732,9787,openstreets,Chuko,Bar Chuko LLC,Bar Chuko LLC,565,Vanderbilt Ave,Brooklyn,11238,"565 Vanderbilt Ave, Brooklyn, NY",08/04/2020,40.680839,-73.96771,Prospect Heights
+640,9756,9811,openstreets,Cataldo’s restaurant,Cataldo54inc,Cataldo54inc,554,Vanderbilt avenue,Brooklyn,11238,"554  Vanderbilt avenue, Brooklyn, NY",08/04/2020,40.680021,-73.968024,Prospect Heights
+641,9761,9816,openstreets,BierWax,BierWax LLC,BierWax,556,Vanderbilt Avenue,Brooklyn,11238,"556 Vanderbilt Avenue , Brooklyn, NY",08/04/2020,40.679966,-73.968046,Prospect Heights
+642,9765,9820,openstreets,Branded Saloon,"Branded Cattle Saloon, Inc.",Branded Saloon,603,Vanderbilt Avenue,Brooklyn,11238,"603 Vanderbilt Avenue, Brooklyn, NY",08/05/2020,40.679286,-73.968262,Prospect Heights
+643,9769,9825,openstreets,Faun,Wilderness Group LLC,Faun,606,Vanderbilt Avenue,Brooklyn,11238,"606 Vanderbilt Avenue, Brooklyn, NY",08/05/2020,40.678191,-73.968681,Prospect Heights
+644,9770,9826,openstreets,Lalou,WIne People LLC,LaLou,581,581 Vanderbilt Ave,Brooklyn,11238,"581 581 Vanderbilt Ave, Brooklyn, NY",08/05/2020,,,
+645,9805,9863,both,King David,K.D. Kosher Inc,K.D. Kosher Inc,101-10,Queens Blvd,Queens,11375,"101-10  Queens Blvd , Queens, NY",08/05/2020,40.7264,-73.852315,Forest Hills
