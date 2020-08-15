@@ -1,4 +1,4 @@
-,objectid,Seating Interest,Restaurant Name,Legal Business Name,Doing Business As (DBA),Building Number,Street,Borough,Postcode,Business Address,Time of Submission,Latitude,Longitude,NTA
+,objectid,Seating Interest (Sidewalk/Roadway/Both),Restaurant Name,Legal Business Name,Doing Business As (DBA),Building Number,Street,Borough,Postcode,Business Address,Time of Submission,Latitude,Longitude,NTA
 0,32,sidewalk,Arbuz Cafe,Arbuz Cafe NY inc.,Arbuz Cafe NY inc.,1706,Sheepshead Bay Rd,Brooklyn,11235,"1706  Sheepshead Bay Rd, Brooklyn, NY",06/19/2020,40.585724,-73.951767,Sheepshead Bay-Gerritsen Beach-Manhattan Beach
 1,33,roadway,Nerai,Koureli Restaurant Group Inc,Nerai,55,East 54th Street,Manhattan,10022,"55 East 54th Street, Manhattan, NY",06/19/2020,40.760117,-73.973162,Midtown-Midtown South
 2,34,roadway,Hill Country,"Hill Country New York, LLC",Hill Country,30,West 26th,Manhattan,10010,"30  West 26th, Manhattan, NY",06/19/2020,,,
