@@ -1,0 +1,30 @@
+,restaurant_id,name,neighborhood,borough,zip_code,closed_as_of_date
+0,16,Holy Ground,Tribeca,Manhattan,10013,2020-08-06
+1,17,Angkor Cambodian Bistro,Upper East Side,Manhattan,10065,2020-08-06
+2,34,Agra Restaurant,Upper East Side,Manhattan,10065,2020-07-30
+3,36,La Caridad 78,Upper West Side,Manhattan,10024,2020-07-30
+4,37,Oath Pizza,Upper West Side,Manhattan,10024,2020-07-30
+5,38,Recolte,Upper West Side,Manhattan,10023,2020-07-30
+6,44,Let’s Makan,Chinatown,Manhattan,10013,2020-07-23
+7,56,Ali Baba,Upper West Side,Manhattan,10024,2020-07-16
+8,57,Amsterdam Gourmet Deli,Upper West Side,Manhattan,10024,2020-07-16
+9,58,the Beacon Bar,Upper West Side,Manhattan,10023,2020-07-16
+10,60,Floating Mountain Tea House,Upper West Side,Manhattan,10023,2020-07-16
+11,61,Grill 212,Upper West Side,Manhattan,10024,2020-07-16
+12,63,Nanoosh,Upper West Side,Manhattan,10023,2020-07-16
+13,64,New Wave Cafe,Upper West Side,Manhattan,10024,2020-07-16
+14,65,Pasta Franco,Upper West Side,Manhattan,10024,2020-07-16
+15,66,Vaucluse,Upper East Side,Manhattan,10065,2020-07-16
+16,75,Pokebab,Upper West Side,Manhattan,10023,2020-07-16
+17,84,Padoca,Upper East Side,Manhattan,10065,2020-07-02
+18,89,Aux Epices,Chinatown,Manhattan,10013,2020-06-26
+19,90,Mee Li Fruits and Vegetables,Chinatown,Manhattan,10013,2020-06-26
+20,98,The Cupping Room Cafe,SoHo,Manhattan,10013,2020-06-26
+21,111,Oxbow Tavern,Upper West Side,Manhattan,10023,2020-06-18
+22,123,Vietspot,Tribeca,Manhattan,10013,2020-05-29
+23,126,Schnippers,Tribeca,Manhattan,10007,2020-05-22
+24,127,Bistro Cassis,Upper West Side,Manhattan,10023,2020-05-22
+25,136,Beyoglu,Upper East Side,Manhattan,10028,2020-05-15
+26,138,the Aviary,Columbus Circle,Manhattan,10023,2020-05-08
+27,139,the Office,Columbus Circle,Manhattan,10023,2020-05-08
+28,146,Lucky Strike,SoHo,Manhattan,10013,2020-05-08
