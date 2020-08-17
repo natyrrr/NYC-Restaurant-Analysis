@@ -1,5 +1,5 @@
 
-#An Analysis of the Socioeconomic Impact on the NYC Restaurant Industry Post COVID-19. 
+# An Analysis of the Socioeconomic Impact on the NYC Restaurant Industry Post COVID-19. 
 #### **Purpose:**
 Analyze the effects of COVID-19 on NYC restaurants in high, medium, and low income neighborhoods. 
 
@@ -15,7 +15,7 @@ In order to compare the effects of COVID-19 among the different socioeconomic ne
 1. A clear definition of various socioeconomic areas which we called hHigh, Low, and Medium income neighborhoods.
 2. Datasets listing active restaurants in NYC prior to the COVID-19 shutdown and a list of post COVID openings in our pre-defined socioeconomic zones. 
 3. Government assistance/loans received in each of the neighborhoods, correlating with re-openings. This would reveal the strength of recovery for each neighborhood. 
-###**Sources Utilized**
+### **Sources Utilized**
 1. [NYC Open Data for listings of all active restaurants and re-opening applications.](https://opendata.cityofnewyork.us/)
 2. [IRS 2017 tax return data.](https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-2017-zip-code-data-soi)
 3. [NYC Department of Health listings of all NYC zipcodes.](https://www.health.ny.gov/statistics/cancer/registry/appendix/neighborhoods.htm)
