@@ -12,7 +12,7 @@ Restaurants in the lower income zipcodes were hit the hardests with lowest reope
 -----------------------------------------------------------
 ### **Metrics Needed**
 In order to compare the effects of COVID-19 among the different socioeconomic neighborhoods of NYC we used the following metrics: 
-1. A clear definition of various socioeconomic areas which we called hHigh, Low, and Medium income neighborhoods.
+1. A clear definition of various socioeconomic areas which we called High, Low, and Medium income neighborhoods.
 2. Datasets listing active restaurants in NYC prior to the COVID-19 shutdown and a list of post COVID openings in our pre-defined socioeconomic zones. 
 3. Government assistance/loans received in each of the neighborhoods, correlating with re-openings. This would reveal the strength of recovery for each neighborhood. 
 ### **Sources Utilized**
@@ -38,6 +38,7 @@ Exploring our inquiry, we applied the following methods:
         - High Income: 3377
         - Medium Income: 1772
         - Low Income: 1337
+        
         ![Pre Covid by Income Level Our Zips](bokeh_plot-19.png)
         ![Pre Covid by Borough Our Zips](bokeh_plot-20.png)
         ![Map of Pre Covid](nathalie_pre_covid_map.png)
@@ -45,6 +46,7 @@ Exploring our inquiry, we applied the following methods:
         - High Income: 1092
         - Medium Income: 646
         - Low Income: 155
+        
         ![Post Covid By Income Level Our Zips](bokeh_plot-13.png)
         ![Post Covid By Borough Our Zips](bokeh_plot-12.png)
         ![Map of Post Covid](chart_for_nathalie.png)
