@@ -18,7 +18,7 @@ In order to compare the effects of COVID-19 among the different socioeconomic ne
 
 ## **Methods Applied** 
 Exploring our inquiry, we applied the following methods: 
-1. **Dividing NYC neighborhoods into high, medium, and low income.** We began our data exploration with the NYC Department of Health listings of all NYC neighborhood zipcodes. We then cross referenced these zipcodes with our IRS tax return data. We then picked three different income levels based on the 2017 IRS data. After, we divided aggregate income declared in each IRS tax return filing per NYC zipcode by aggregated number of returns filed in each zipcode. The result showed the average declared income per return or per household. The top 10 highest household income zipcodes were grouped under 'high income', the top 10 zipcodes with lowest household incomes were categorized as 'low income', and the top ten zipcodes with household income between 80000 and 101000 were picked as medium income (in the judgement of our group regarding medium income in NYC). 
+1. **Dividing NYC neighborhoods into high, medium, and low income.** We began our data exploration with the NYC Department of Health listings of all NYC neighborhood zipcodes. We then cross referenced these zipcodes with our IRS tax return data. We then picked three different income levels based on the 2017 IRS data. After, we divided aggregate income declared in each IRS tax return filing per NYC zipcode by aggregated number of returns filed in each zipcode. The result showed the average declared income per return or per household. The top 10 highest household income zipcodes were grouped under 'high income', the top 10 zipcodes with lowest household incomes were categorized as 'low income', and the top ten zipcodes with household income between $80000 and $101000 were picked as medium income (in the judgement of our group regarding medium income in NYC). 
   - **Major Findings:** 
     - **A.** The disparity between the highest income zip code 10007 (Tribeca with a household income of 693K) and the lowest, 10453 (Morris heights South West Bronx with 27K income) was significant. 
     -  **B.** The top ten highest income zip codes were all in the borough of Manhattan, 9 out of 10 lowest income zicpcodes were in Bronx. Medium income zipcodes were scattered among all five boroughs of NYC.
@@ -45,17 +45,17 @@ Exploring our inquiry, we applied the following methods:
 
 
 3. **What were the number of loans and aggregate amounts received by restaurants in the neighborhoods of each income level?**
-The total loan amount (per selected zip codes) in the High income group is 34 million and the number of loans received is 589. In that area there were 3377 opened restaurants and on average only 17 percent received funding. For the Medium income group the loan amount was 19 million and the number of received loans is 448, which means 25 percent of restaurants in that group received funding. The Low income group received 6 million in funding with 262 or 19 percent of restaurants receiving loans.
+The total loan amount (per selected zip codes) in the High income group is $34 million and the number of loans received is 589. In that area there were 3377 opened restaurants and on average only 17 percent received funding. For the Medium income group the loan amount was $19 million and the number of received loans is 448, which means 25 percent of restaurants in that group received funding. The Low income group received $6 million in funding with 262 or 19 percent of restaurants receiving loans.
 
 ![Funding Pie Graphs](junaid_7.png)
 
   - **Mean loan amount received from small business administration (SBA) per income zone in dollars:**
  
-    - High Income - Mean: 59,194 Total: 34,865,671
+    - High Income - Mean: $59,194 Total: $34,865,671
     ![High Mean Loan Amounts](bokeh_plot-14.png)
-    - Medium Income - Mean: 43,050 Total: 19,286,695
+    - Medium Income - Mean: $43,050 Total: $19,286,695
     ![Medium Mean Loan Amounts](junaid_2.png)
-    - Low Income - Mean: 24,841 Total: 6,508,562
+    - Low Income - Mean: $24,841 Total: $6,508,562
     ![Low Mean Loan Amounts](junaid_1.png)
 4. **Are there any correlations between number of loans received by neighborhoods and reopening applications filed by restaurants?**
 Lower income neighborhoods received a lower amount of SBA loans on average. Lower income neighborhoods also had the lowest number of reopening applications among all neighborhoods. However, looking at percentages of loans from all three income levels, Low and High income received a comparable amount of loans for their respective zip codes.
