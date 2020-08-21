@@ -15,15 +15,6 @@ In order to compare the effects of COVID-19 among the different socioeconomic ne
 1. A clear definition of various socioeconomic areas which we called High, Low, and Medium income neighborhoods.
 2. Datasets listing active restaurants in NYC prior to the COVID-19 shutdown and a list of post COVID openings in our pre-defined socioeconomic zones. 
 3. Government assistance/loans received in each of the neighborhoods, correlating with re-openings. This would reveal the strength of recovery for each neighborhood. 
-### **Sources Utilized**
-1. [NYC Open Data for listings of all active restaurants and re-opening applications.](https://opendata.cityofnewyork.us/)
-2. [IRS 2017 tax return data.](https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-2017-zip-code-data-soi)
-3. [NYC Department of Health listings of all NYC zipcodes.](https://www.health.ny.gov/statistics/cancer/registry/appendix/neighborhoods.htm)
-4. [Eateries in the New York City Department of Parks & Recreation properties including snack bars, food carts, mobile food trucks, and restaurants.](https://data.cityofnewyork.us/Recreation/Directory-of-Eateries/8792-ebcp)
-5. [NYC Open Restaurant Applications](https://data.cityofnewyork.us/Transportation/Open-Restaurant-Applications/pitm-atqc/data)
-6. [COVID: US Workforce Population by Industries and Company Segments](https://aws.amazon.com/marketplace/pp/prodview-3yow3g2ymr7pe?qid=1596893861758&sr=0-25&ref_=srh_res_product_title#overview)
-7. [US Federal Tax Liens - Business Entities - 2018](https://aws.amazon.com/marketplace/pp/prodview-u5kbll3f6i43m?qid=1596893861758&sr=0-27&ref_=srh_res_product_title#overview)
-8. [SBA Paycheck Protection Program (PPP) Loan Data for the restaurants in NY State](https://www.kaggle.com/govtrades/sba-paycheck-protection-program-loan-data/notebooks)
 
 ## **Methods Applied** 
 Exploring our inquiry, we applied the following methods: 
@@ -59,6 +50,7 @@ The total loan amount (per selected zip codes) in the High income group is 34 mi
 ![Funding Pie Graphs](junaid_7.png)
 
   - **Mean loan amount received from small business administration (SBA) per income zone in dollars:**
+ 
     - High Income - Mean: 59,194 Total: 34,865,671
     ![High Mean Loan Amounts](bokeh_plot-14.png)
     - Medium Income - Mean: 43,050 Total: 19,286,695
@@ -67,3 +59,13 @@ The total loan amount (per selected zip codes) in the High income group is 34 mi
     ![Low Mean Loan Amounts](junaid_1.png)
 4. **Are there any correlations between number of loans received by neighborhoods and reopening applications filed by restaurants?**
 Lower income neighborhoods received a lower amount of SBA loans on average. Lower income neighborhoods also had the lowest number of reopening applications among all neighborhoods. However, looking at percentages of loans from all three income levels, Low and High income received a comparable amount of loans for their respective zip codes.
+  
+  ### **Sources Utilized**
+1. [NYC Open Data for listings of all active restaurants and re-opening applications.](https://opendata.cityofnewyork.us/)
+2. [IRS 2017 tax return data.](https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-2017-zip-code-data-soi)
+3. [NYC Department of Health listings of all NYC zipcodes.](https://www.health.ny.gov/statistics/cancer/registry/appendix/neighborhoods.htm)
+4. [Eateries in the New York City Department of Parks & Recreation properties including snack bars, food carts, mobile food trucks, and restaurants.](https://data.cityofnewyork.us/Recreation/Directory-of-Eateries/8792-ebcp)
+5. [NYC Open Restaurant Applications](https://data.cityofnewyork.us/Transportation/Open-Restaurant-Applications/pitm-atqc/data)
+6. [COVID: US Workforce Population by Industries and Company Segments](https://aws.amazon.com/marketplace/pp/prodview-3yow3g2ymr7pe?qid=1596893861758&sr=0-25&ref_=srh_res_product_title#overview)
+7. [US Federal Tax Liens - Business Entities - 2018](https://aws.amazon.com/marketplace/pp/prodview-u5kbll3f6i43m?qid=1596893861758&sr=0-27&ref_=srh_res_product_title#overview)
+8. [SBA Paycheck Protection Program (PPP) Loan Data for the restaurants in NY State](https://www.kaggle.com/govtrades/sba-paycheck-protection-program-loan-data/notebooks)
