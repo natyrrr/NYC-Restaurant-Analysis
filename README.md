@@ -39,15 +39,15 @@ Exploring our inquiry, we applied the following methods:
         - Medium Income: 1772
         - Low Income: 1337
         
-        ![Pre Covid by Income Level Our Zips](Readme\ file/bokeh_plot-19.png)
-        ![Pre Covid by Borough Our Zips](Readme\ file/bokeh_plot-20.png)
-        ![Map of Pre Covid](Readme\ file/nathalie_pre_covid_map.png)
+        ![Pre Covid by Income Level Our Zips](~/Readme\ file/bokeh_plot-19.png)
+        ![Pre Covid by Borough Our Zips](~/Readme\ file/bokeh_plot-20.png)
+        ![Map of Pre Covid](~/Readme\ file/nathalie_pre_covid_map.png)
     - **C.** In our selected neighborhoods there were a total of 1893 restaurants that applied for reopening. The distribution was as follows: 
         - High Income: 1092
         - Medium Income: 646
         - Low Income: 155
         
-        ![Post Covid By Income Level Our Zips](Readme\ file/bokeh_plot-13.png)
+        ![Post Covid By Income Level Our Zips](~/Readme\ file/bokeh_plot-13.png)
         ![Post Covid By Borough Our Zips](Readme\ file/bokeh_plot-12.png)
         ![Map of Post Covid](Readme\ file/chart_for_nathalie.png)
 
