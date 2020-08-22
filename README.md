@@ -47,7 +47,7 @@ Exploring our inquiry, we applied the following methods:
         - Medium Income: 646
         - Low Income: 155
         
-        ![Post Covid By Income Level Our Zips](bokeh_plot-13.png)
+        ![Post Covid By Income Level Our Zips](A_Team/README_photos/bokeh_plot-13.png)
         ![Post Covid By Borough Our Zips](bokeh_plot-12.png)
         ![Map of Post Covid](chart_for_nathalie.png)
 
