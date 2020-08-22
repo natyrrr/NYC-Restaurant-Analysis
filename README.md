@@ -39,33 +39,33 @@ Exploring our inquiry, we applied the following methods:
         - Medium Income: 1772
         - Low Income: 1337
         
-        ![Pre Covid by Income Level Our Zips](bokeh_plot-19.png)
-        ![Pre Covid by Borough Our Zips](bokeh_plot-20.png)
-        ![Map of Pre Covid](nathalie_pre_covid_map.png)
+        ![Pre Covid by Income Level Our Zips](/README/photos/bokeh_plot-19.png)
+        ![Pre Covid by Borough Our Zips](/README_photos/bokeh_plot-20.png)
+        ![Map of Pre Covid](/README_photos/nathalie_pre_covid_map.png)
     - **C.** In our selected neighborhoods there were a total of 1893 restaurants that applied for reopening. The distribution was as follows: 
         - High Income: 1092
         - Medium Income: 646
         - Low Income: 155
         
         ![Post Covid By Income Level Our Zips](/README_photos/bokeh_plot-13.png)
-        ![Post Covid By Borough Our Zips](bokeh_plot-12.png)
-        ![Map of Post Covid](chart_for_nathalie.png)
+        ![Post Covid By Borough Our Zips](/README_photos/bokeh_plot-12.png)
+        ![Map of Post Covid](/README_photos/chart_for_nathalie.png)
 
 
 
 3. **What were the number of loans and aggregate amounts received by restaurants in the neighborhoods of each income level?**
 The total loan amount (per selected zip codes) in the High income group is $34 million and the number of loans received is 589. In that area there were 3377 opened restaurants and on average only 17 percent received funding. For the Medium income group the loan amount was $19 million and the number of received loans is 448, which means 25 percent of restaurants in that group received funding. The Low income group received $6 million in funding with 262 or 19 percent of restaurants receiving loans.
 
-![Funding Pie Graphs](junaid_7.png)
+![Funding Pie Graphs](/README_photos/junaid_7.png)
 
   - **Mean loan amount received from small business administration (SBA) per income zone in dollars:**
  
     - High Income - Mean: $59,194 Total: $34,865,671
-    ![High Mean Loan Amounts](bokeh_plot-14.png)
+    ![High Mean Loan Amounts](/README_photos/bokeh_plot-14.png)
     - Medium Income - Mean: $43,050 Total: $19,286,695
-    ![Medium Mean Loan Amounts](junaid_2.png)
+    ![Medium Mean Loan Amounts](/README_photos/junaid_2.png)
     - Low Income - Mean: $24,841 Total: $6,508,562
-    ![Low Mean Loan Amounts](junaid_1.png)
+    ![Low Mean Loan Amounts](/README_photos/junaid_1.png)
 4. **Are there any correlations between number of loans received by neighborhoods and reopening applications filed by restaurants?**
 Lower income neighborhoods received a lower amount of SBA loans on average. Lower income neighborhoods also had the lowest number of reopening applications among all neighborhoods. However, looking at percentages of loans from all three income levels, Low and High income received a comparable amount of loans for their respective zip codes.
   
